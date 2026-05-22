@@ -1,0 +1,213 @@
+No.,Original Keyword,Original Layer,Necessary and Sufficient Condition Keyword
+1,Intersection Entry Traffic Light,L2,Vehicle Waiting for a Red Light
+2,Intersection Entry Median Barrier,L2,Vehicle Colliding with Median Barrier
+3,Intersection Entry Children Protection Zone Sign,L2,School Zone with High Child Density
+4,Intersection Entry Bicycle-Only Lane Sign,L2,Queue of Bicycles on a Red Lane
+5,Intersection Entry Speed Bump,L2,Vehicle Jolting Over a Speed Bump
+6,Intersection Entry Pedestrian Island,L2,Pedestrians Waiting in the Median Refuge Island
+7,Intersection Entry Convex Mirror,L2,Driver Checking the Convex Mirror
+8,Intersection Entry Stop Line,L2,Vehicle Stopped Before the Solid Line
+9,Intersection Entry Safety Zone,L2,Yellow Cross-Hatched Safety Space
+10,Intersection Entry Colored Lane Guide Line,L2,Diverging Along the Colored Guide Line
+11,Intersection Entry Delineator Post,L2,Vehicle Blocked by Center Orange Delineator Posts
+12,Intersection Entry Automated Speed Enforcement Camera,L2,Vehicle Detected for Speeding
+13,Intersection Entry Pedestrian Crossing Advance Warning Marking,L2,Vehicle Alerted by Ahead Diamond Marking for Pedestrian Crossing
+14,Intersection Entry No-Entry Road Marking,L2,Vehicle in Front of the No-Entry Marking
+15,Intersection Entry Flashing Traffic Signal,L2,Vehicle Decelerating at a Flashing Signal
+16,Intersection Entry Pedestrian Safety Guardrail,L2,Pedestrian Climbing Over the Safety Guardrail
+17,Intersection Entry Crash Cushion,L2,Vehicle Colliding at the Divergence Point Terminal
+18,Intersection Entry Variable Message Sign (VMS),L2,Driver Checking Real-Time Information on VMS
+19,Intersection Entry Wildlife Crossing Warning Sign,L2,Wildlife Warning Zone
+20,Intersection Entry Right-Turn Only Traffic Signal,L2,Driver Waiting for a Right-Turn Signal
+21,Straight Road Section Traffic Light,L2,Vehicle Stopped at a Red Light
+22,Straight Road Section Median Barrier,L2,Vehicle Colliding with Median Barrier
+23,Straight Road Section Children Protection Zone Sign,L2,School Zone with High Child Density
+24,Straight Road Section Bicycle-Only Lane Sign,L2,Queue of Bicycles on a Red Lane
+25,Straight Road Section Speed Bump,L2,Vehicle Jolting Over a Speed Bump
+26,Straight Road Section Pedestrian Island,L2,Pedestrians Waiting in the Median Refuge Island
+27,Straight Road Section Convex Mirror,L2,Driver Checking the Convex Mirror
+28,Straight Road Section Stop Line,L2,Vehicle Stopped Before the Solid Line
+29,Straight Road Section Safety Zone,L2,Yellow Cross-Hatched Safety Space
+30,Straight Road Section Colored Lane Guide Line,L2,Diverging Along the Colored Guide Line
+31,Straight Road Section Delineator Post,L2,Vehicle Blocked by Center Orange Delineator Posts
+32,Straight Road Section Automated Speed Enforcement Camera,L2,Vehicle Detected for Speeding
+33,Straight Road Section Pedestrian Crossing Advance Warning Marking,L2,Vehicle Alerted by Ahead Diamond Marking for Pedestrian Crossing
+34,Straight Road Section No-Entry Road Marking,L2,Vehicle in Front of the No-Entry Marking
+35,Straight Road Section Flashing Traffic Signal,L2,Vehicle Decelerating at a Flashing Signal
+36,Straight Road Section Pedestrian Safety Guardrail,L2,Pedestrian Climbing Over the Safety Guardrail
+37,Straight Road Section Crash Cushion,L2,Vehicle Colliding at the Divergence Point Terminal
+38,Straight Road Section Variable Message Sign (VMS),L2,Driver Checking Real-Time Information on VMS
+39,Straight Road Section Wildlife Crossing Warning Sign,L2,Collision with a Water Deer
+40,3-Way Intersection Right-Turn Only Traffic Signal,L2,Driver Waiting for a Right-Turn Signal
+41,Right-Turn Corner Traffic Light,L2,Vehicle Waiting to Turn Right at the Corner
+42,Right-Turn Corner Median Barrier,L2,Corner Median Barrier Structure
+43,Right-Turn Corner Children Protection Zone Sign,L2,School Zone with High Child Density
+44,Right-Turn Corner Bicycle-Only Lane Sign,L2,Queue of Bicycles on a Red Lane
+45,Right-Turn Corner Speed Bump,L2,Vehicle Jolting Over a Speed Bump
+46,Right-Turn Corner Pedestrian Island,L2,Pedestrians Waiting in the Median Refuge Island
+47,Right-Turn Corner Convex Mirror,L2,Driver Checking the Convex Mirror
+48,Right-Turn Corner Stop Line,L2,Vehicle Stopped Before the Solid Line
+49,Right-Turn Corner Safety Zone,L2,Yellow Cross-Hatched Safety Space
+50,Right-Turn Corner Colored Lane Guide Line,L2,Diverging Along the Colored Guide Line
+51,Right-Turn Corner Delineator Post,L2,Vehicle Restricted by Orange Delineator Posts on a Right-Turn Curve
+52,Right-Turn Corner Automated Speed Enforcement Camera,L2,Vehicle Caught Violating Speed Reduction at a Corner
+53,Right-Turn Corner Pedestrian Crossing Advance Warning Marking,L2,Vehicle Alerted by a Diamond Marking Before Entering a Corner
+54,Right-Turn Corner No-Entry Road Marking,L2,Vehicle Approaching a No-Entry Marking Outside the Turning Trajectory
+55,Right-Turn Corner Flashing Traffic Signal,L2,Vehicle Observing a Flashing Signal Before Entering a Corner
+56,Right-Turn Corner Pedestrian Safety Guardrail,L2,Pedestrian Climbing Over the Sidewalk Boundary Guardrail
+57,Right-Turn Corner Crash Cushion,L2,Vehicle Colliding with a Crash Cushion at a Corner Terminal
+58,Right-Turn Corner Variable Message Sign (VMS),L2,Driver Reading the Electronic Message Before Turning
+59,Right-Turn Corner Wildlife Crossing Warning Sign,L2,Water Deer Appearing at the Edge of a Corner
+60,Right-Turn Corner Right-Turn Only Traffic Signal,L2,Driver Waiting for a Right-Turn Arrow Signal at a Corner
+61,Traffic Light Near Bus Stop,L2,Vehicle Waiting for a Red Light in Front of a Bus Stop
+62,Median Barrier Near Bus Stop,L2,Vehicle Impacting the Median Barrier Opposite the Platform
+63,Children Protection Zone Sign Near Bus Stop,L2,Zone with High Child Density Around a School Bus Stop
+64,Bicycle-Only Lane Sign Near Bus Stop,L2,Bicycle Flow on a Red Lane Next to a Bus Stop
+65,Speed Bump Near Bus Stop,L2,Vehicle Jolting Over a Speed Bump Before a Stopping Zone
+66,Pedestrian Island Near Bus Stop,L2,Central Refuge Space for Crossing Passengers
+67,Convex Mirror Near Bus Stop,L2,Driver Watching a Convex Mirror to Check Bus Stop Blind Spots
+68,Stop Line Near Bus Stop,L2,Vehicle Stopped Precisely Before the Solid Line in Front of a Bus Stop
+69,Safety Zone Near Bus Stop,L2,Yellow Cross-Hatched Protective Space Near Boarding/Alighting Areas
+70,Colored Lane Guide Line Near Bus Stop,L2,Colored Line Divergence Zone for Bypassing a Bus Stop
+71,Delineator Post Near Bus Stop,L2,Vehicle Restricted by Delineator Posts at the Edge of a Bus Stop
+72,Automated Speed Enforcement Camera Near Bus Stop,L2,Vehicle Caught Speeding in a Boarding/Alighting Zone
+73,Pedestrian Crossing Advance Warning Marking Near Bus Stop,L2,Vehicle Recognizing an Advance Crossing Warning Before a Bus Stop
+74,No-Entry Road Marking Near Bus Stop,L2,Vehicle in Front of a No-Entry Marking on a Bus Approach Surface
+75,Flashing Traffic Signal Near Bus Stop,L2,Vehicle Checking a Flashing Signal When Approaching a Bus Stop
+76,Pedestrian Safety Guardrail Near Bus Stop,L2,Pedestrian Climbing Over the Guardrail Next to Waiting Passengers
+77,Crash Cushion Near Bus Stop,L2,Vehicle Colliding at the End of a Bus Stop Entry Divergence
+78,Variable Message Sign (VMS) Near Bus Stop,L2,Driver Checking Electronic Information in Front of a Bus Stop
+79,Wildlife Crossing Warning Sign Near Bus Stop,L2,Water Deer Watch Zone Around a Bus Stop
+80,Right-Turn Only Traffic Signal Near Bus Stop,L2,Vehicle Waiting for a Right-Turn Signal Next to a Bus Stop
+81,Traffic Light Proximity of Taxi Stand,L2,Vehicle Stopped at a Red Light in Front of a Taxi Stand
+82,Median Barrier Proximity of Taxi Stand,L2,Vehicle Impacting the Median Structure Opposite a Taxi Lane
+83,Children Protection Zone Sign Proximity of Taxi Stand,L2,School Zone Warning Area Along Taxi Stand Pedestrian Routes
+84,Bicycle-Only Lane Sign Proximity of Taxi Stand,L2,Bicycle Flow on a Red Lane Next to a Taxi Stand
+85,Speed Bump Proximity of Taxi Stand,L2,Vehicle Reacting to a Speed Bump Before Approaching a Taxi Stand
+86,Pedestrian Island Proximity of Taxi Stand,L2,Central Pedestrian Refuge Point Connecting to a Taxi Stand
+87,Convex Mirror Proximity of Taxi Stand,L2,Driver Looking at a Convex Mirror to Check Taxi Departures
+88,Stop Line Proximity of Taxi Stand,L2,Vehicle Stopped Before the White Solid Line in Front of a Taxi Stand
+89,Safety Zone Proximity of Taxi Stand,L2,Cross-Hatched Separation Zone for Passenger Protection
+90,Colored Lane Guide Line Proximity of Taxi Stand,L2,Colored Line Guidance Zone for Avoiding a Taxi Stand
+91,Delineator Post Proximity of Taxi Stand,L2,Vehicle Restricted by Orange Delineator Posts on the Side of a Taxi Stand
+92,Automated Speed Enforcement Camera Proximity of Taxi Stand,L2,Vehicle Captured Violating Speed Limits Near a Taxi Stand
+93,Pedestrian Crossing Advance Warning Marking Proximity of Taxi Stand,L2,Vehicle Observing a Diamond Advance Warning Marking in Front of a Taxi Stand
+94,No-Entry Road Marking Proximity of Taxi Stand,L2,Vehicle Approaching a No-Entry Marking on a Taxi Stand surface
+95,Flashing Traffic Signal Proximity of Taxi Stand,L2,Vehicle Decelerating at a Flashing Signal Adjacent to a Taxi Stand
+96,Pedestrian Safety Guardrail Proximity of Taxi Stand,L2,Person Climbing Over a Taxi Stand Boundary Guardrail
+97,Crash Cushion Proximity of Taxi Stand,L2,Vehicle Colliding with a Crash Cushion at a Taxi Stand Divergence Terminal
+98,Variable Message Sign (VMS) Proximity of Taxi Stand,L2,Driver Reading the Electronic Guide Above a Taxi Stand
+99,Wildlife Crossing Warning Sign Proximity of Taxi Stand,L2,Animal Watch Zone Around a Taxi Stand
+100,Tunnel Approach Traffic Light,L2,Vehicle Waiting to Enter at a Red Light at a Tunnel Entrance
+101,Tunnel Approach Median Barrier,L2,Vehicle Impacting the Center Median Wall at a Tunnel Entrance
+102,Tunnel Approach Children Protection Zone Sign,L2,Zone Warning of Child Pedestrians in Front of a Tunnel
+103,Tunnel Approach Bicycle-Only Lane Sign,L2,Bicycle Flow on a Red Lane Approaching a Tunnel
+104,Tunnel Approach Speed Bump,L2,Vehicle Reacting to a Speed Bump Before Entering a Tunnel
+105,Tunnel Approach Pedestrian Island,L2,Central Crossing Refuge Space in Front of a Tunnel
+106,Tunnel Approach Convex Mirror,L2,Driver Looking at a Convex Mirror Before Entering a Dark Zone
+107,Tunnel Approach Stop Line,L2,Vehicle Stopped Before the Solid Line at a Tunnel Entrance
+108,Tunnel Approach Safety Zone,L2,Yellow Cross-Hatched Buffer Space Before a Tunnel
+109,Tunnel Approach Colored Lane Guide Line,L2,Colored Line Guidance Zone Toward the Dark Zone Entry Direction
+110,Center Area Near Bus Stop,L2,Lane Centering Alignment Section in Front of a Bus Stop
+111,East Side of Diagonal Crosswalk,L2,East Side Approach Space of a Diagonal Pedestrian Path
+112,Freight Truck Loading Zone Entrance,L2,Truck Waiting to Enter a Loading Zone
+113,Traffic Light Underneath Elevated Road,L2,Vehicle Waiting for a Red Light Underneath a Bridge Pier
+114,Median Barrier Underneath Elevated Road,L2,Vehicle Impacting a Median Structure Underneath an Elevated Road
+115,Children Protection Zone Sign Underneath Elevated Road,L2,Child Warning Zone Underneath an Elevated Road Shadow
+116,Bicycle-Only Lane Sign Underneath Elevated Road,L2,Exclusive Bicycle Flow on a Red Lane Next to a Bridge Pier
+117,Speed Bump Underneath Elevated Road,L2,Vehicle Decelerating While Passing Over a Speed Bump Underneath a Bridge Pier
+118,Pedestrian Island Underneath Elevated Road,L2,Central Pedestrian Refuge Space Underneath an Elevated Road
+119,Convex Mirror Underneath Elevated Road,L2,Driver Watching a Convex Mirror to Check Blind Spots Around a Bridge Pier
+120,Stop Line Underneath Elevated Road,L2,Vehicle Stopped Before the White Solid Line Underneath a Bridge Pier
+121,Safety Zone Underneath Elevated Road,L2,Cross-Hatched Protective Zone Around Columns/Piers
+122,Colored Lane Guide Line Underneath Elevated Road,L2,Colored Line Divergence Zone Directing Underneath an Elevated Road
+123,Traffic Light Immediately Before Crosswalk,L2,Vehicle Waiting at a Red Light Immediately Before Pedestrian Crossing
+124,Median Barrier Immediately Before Crosswalk,L2,Vehicle Impacting a Center Median Structure When Approaching a Crosswalk
+125,Children Protection Zone Sign Immediately Before Crosswalk,L2,Children Protection Warning Zone Immediately Before a Crosswalk
+126,Bicycle-Only Lane Sign Immediately Before Crosswalk,L2,Bicycle Flow on a Red Lane in Front of a Crosswalk
+127,Speed Bump Immediately Before Crosswalk,L2,Vehicle Passing Over a Speed Bump to Decelerate Before a Pedestrian Crossing
+128,Delineator Post in Sharp Curve Section,L2,Vehicle Guided by Orange Delineator Posts on the Outer Edge of a Sharp Turn
+129,Automated Speed Enforcement Camera in Sharp Curve Section,L2,Vehicle Captured Violating Speed Limits When Entering a Curve
+130,Pedestrian Crossing Advance Warning Marking in Sharp Curve Section,L2,Vehicle Alerted by a Diamond Crossing Advance Warning Before a Curve
+131,No-Entry Road Marking in Sharp Curve Section,L2,Vehicle Approaching a No-Entry Marking at a Curve Cut Section
+132,Flashing Traffic Signal in Sharp Curve Section,L2,Vehicle Decelerating with Flashing Signal Alertness on a Curved Section
+133,Center of Alley in School Zone,L2,Section Passing Through the Center of a School Zone Alley
+134,Central Island of Roundabout,L2,Separation Space at the Center of a Roundabout Island
+135,North Side of Roundabout,L2,North Side Entry Space into a Roundabout Flow
+136,Underpass Entrance Ramp Entry,L2,Entry Zone at the Starting Point of a Downhill Lane
+137,Sharp Curve Section - Zone 2,L2,Second Hazardous Zone of Continuous Curves
+138,Center Area Underneath Pedestrian Overpass,L2,Center Passage Space Underneath a Pedestrian Overpass
+139,Center of Public Parking Lot Entry/Exit,L2,Center Alignment Zone of a Public Parking Lot Entry/Exit Axis
+140,Outer Edge of Soundproof Tunnel Section,L2,Driving Space Along the Outer Edge of a Soundproof Tunnel Section
+141,South Side of Underpass Entrance Ramp,L2,South Side Approach Space for Underpass Entry
+142,East Side of One-Way Single-Lane Road,L2,East Side Edge Space of a One-Way Single-Lane Road
+143,Entrance of Bicycle Crossing Track,L2,Approach Flow to the Starting Line of an Exclusive Bicycle Crossing
+144,Children Protection Zone Entrance,L2,Deceleration Approach Zone at the Start of a Children Protection Zone
+145,East Side of Roundabout,L2,East Side Merging Space of a Roundabout
+146,Outer Edge of Taxi Stand,L2,Boarding/Alighting Space at the Outer Edge of a Taxi Stand
+147,Reversible Lane Operation Section - Zone 1,L2,Reversible Lane Operation Start Zone
+148,North Side of Highway Merge Area,L2,North Side Acceleration Entry Space at a Highway Merge
+149,South Side of Sharp Curve Section,L2,South Side Sight-Restricted Space of a Sharp Curve
+150,Bicycle Priority Road - Zone 2,L2,Second Zone of a Bicycle Priority Road Flow
+151,Taxi Stand Entrance,L2,Vehicle Waiting to Enter a Taxi Stand
+152,East Side of Children Protection Zone,L2,East Side School Commute Approach Space in a Children Protection Zone
+153,Outer Edge of Underground Pedestrian Passage Entrance,L2,Pedestrian Space at the Edge of an Underground Passage Entrance
+154,South Side of School Zone Alley,L2,South Side Passage Zone of a School Zone Alley
+155,Outer Edge of Residential Alley,L2,Low-Speed Travel Space at the Edge of a Residential Alley
+156,West Side of One-Way Road,L2,West Side Edge Space of a One-Way Road
+157,Flashing Signal Operation Section - Zone 2,L2,Second Zone with Continuous Flashing Signal Caution
+158,East Side Underneath Pedestrian Overpass,L2,East Side Passage Space Underneath a Pedestrian Overpass
+159,North Side of Coastal Road,L2,North Side Driving Space Adjacent to the Coast
+160,Center of Continuous Downhill Curves,L2,Center Alignment Zone of Continuous Downhill Curves
+161,Exit of Median Bus Lane,L2,Section Exiting from a Median Bus Lane
+162,North Side of BRT-Exclusive Lane,L2,North Side Approach Space of a BRT-Exclusive Lane
+163,Exit of Continuous Speed Bumps,L2,Vehicle Exiting the End of a Continuous Speed Bump Section
+164,Winding Mountain Road - Zone 1,L2,First Turning Zone of a Winding Mountain Road
+165,North Side of Tunnel Entrance,L2,North Side Entry Space Approaching a Tunnel
+166,East Side of BRT-Exclusive Lane,L2,East Side Flow Space of a BRT-Exclusive Lane
+167,South Side of High-Density Commercial Area,L2,South Side Pedestrian Congestion Space in a High-Density Commercial Area
+168,West Side of Bicycle Priority Road,L2,West Side Travel Zone of a Bicycle Priority Road
+169,Exit Area Underneath Pedestrian Overpass,L2,Connecting Section Exiting from Underneath a Pedestrian Overpass
+170,East Side of Public Parking Lot Entry/Exit,L2,East Side Approach Zone Connecting to a Public Parking Lot
+171,Center of Highway Merge Area,L2,Center Acceleration Alignment Zone of a Merging Lane
+172,North Side of Taxi Stand,L2,North Side Boarding/Alighting Approach Space at a Taxi Stand
+173,Entrance of Diagonal Pedestrian Crossing,L2,Approach Space to a Diagonal Pedestrian Crossing Start Line
+174,Road on a Bridge - Zone 1,L2,First Passage Zone of a Road on a Bridge
+175,East Side of Tunnel Entrance,L2,East Side Inflow Space Approaching a Tunnel
+176,South Side of Median Bus Lane,L2,South Side Driving Space of a Median Bus Lane
+177,Center of Children Protection Zone,L2,Center School Commute Passage Zone in a Children Protection Zone
+178,Exit of Bicycle Priority Road,L2,Flow Exiting from a Bicycle Priority Zone
+179,West Side Near Bus Stop,L2,West Side Passenger Approach Space Near a Bus Stop
+180,East Side Underneath Elevated Road,L2,East Side Passage Space Underneath an Elevated Road
+181,North Side of Pedestrian-Only Zone,L2,Vehicle-Excluded North Side Pedestrian Space
+182,Exit of Highway Merge Area,L2,Connecting Section Exiting from the End of a Highway Merge
+183,Hi-Pass Lane Marking at Toll Plaza Approach,L2,Vehicle Aligning and Entering into an Automatic Payment (Hi-Pass) Lane
+184,Tollbooth Barrier at Toll Plaza Entry/Exit,L2,Toll-Paying Vehicle Stopped in Front of a Tollbooth Barrier
+185,Railroad Crossing Barrier,L2,Vehicle Stopped Before a Railroad Crossing Barrier Before a Train Passes
+186,Railroad Crossing Stop Line,L2,Vehicle Stopped Before a Solid Line at a Railroad Crossing
+187,Railroad Crossing Warning Sign,L2,Vehicle Decelerating Upon Seeing a Railroad Crossing Warning Sign
+188,Railroad Crossbuck Signal,L2,Vehicle Stopped Under a Railroad Crossbuck Signal
+189,Height Limit Structure at Bridge Entrance,L2,Front of a Structure Where a Tall Vehicle Stopped Before Entering a Bridge
+190,Axle Scale at Overweight Inspection Station Entry Ramp,L2,Truck Slowly Passing Over an Axle Scale at an Overweight Inspection Station Entry Ramp
+191,Road Marking at Emergency Escape Ramp Entrance,L2,Vehicle Entering Along the Directional Lines of an Emergency Escape Ramp Entrance
+192,Solid Lane Line Inside Tunnel,L2,Vehicle Maintaining its Lane Along a Solid Line Inside a Tunnel
+193,U-Turn Lane Road Marking,L2,Vehicle Waiting to Turn Along a U-Turn Road Marking
+194,U-Turn Lane Sign,L2,Vehicle Waiting Upon Seeing a U-Turn Permission Sign
+195,Fire Lane Road Marking,L2,No-Parking Space Left Vacant for an Exclusive Fire Lane Zone
+196,Accessible Parking Space Sign,L2,Dedicated Parking Space in Front of an Accessible Wheelchair Sign
+197,EV Charging Station Road Marking,L2,Vehicle Waiting in Front of an EV Charging-Only Road Marking
+198,Pregnant Women Parking Space Road Marking,L2,Dedicated Parking Space with a Courtesy Parking Marking for Pregnant Women
+199,Toll Plaza Guide Sign on Highway Ramp,L2,Vehicle Entering Along a Toll Plaza Direction Guide Sign on a Highway Ramp
+200,Fog Prone Area Warning Sign,L2,Vehicle Decelerating Upon Seeing a Heavy Fog Warning Sign
+201,Icy Road Warning Sign,L2,Vehicle Traveling Slowly Upon Seeing an Icy Road Warning Sign
+202,Rockfall Warning Sign,L2,Vehicle Driving Cautiously Upon Seeing a Rockfall Warning Sign
+203,Crosswind Warning Sign,L2,Vehicle Alert to Shaking in front of a Crosswind Warning Sign
+204,Shoulder Rumble Strips,L2,Section Reducing Skid Along Roadside Rumble Strips
+205,Highway Shoulder Lane Marking,L2,Vehicle Aligning and Driving Along Highway Shoulder Lane Markings
+206,Roadside Streetlight Pole,L2,Narrowed Edge Space Next to a Roadside Streetlight Pole
+207,Gantry-Mounted Overhead Road Sign,L2,Vehicle Adjusting its Lane Upon Seeing a Gantry-Mounted Overhead Sign
+208,Climbing Lane Yield Sign,L2,Traffic Flow Where Slow Vehicles Yield in Front of a Climbing Lane Yield Sign
+209,Off-Ramp Directional Arrow Road Marking,L2,Vehicle Exiting Along Arrow-Marked Road Markings on an Off-Ramp
+210,Lane Reduction Advance Warning Sign,L2,Vehicle Preparing to Merge Upon Seeing a Lane Reduction Advance Warning Sign
+211,Keep Intersection Clear Road Marking,L2,Vehicle Stopped While Keeping the Intersection Box Clear
+212,Crossroad Marking at Alley Intersection,L2,Alley Intersection with Crossroad Markings
