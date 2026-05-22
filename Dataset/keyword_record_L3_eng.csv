@@ -1,0 +1,220 @@
+No.,Original Keyword,Original Layer,Necessary and Sufficient Condition Keyword
+1,Traffic Cone for Water Main Burst Recovery,L3,Vehicle Detouring Along Orange Delineators
+2,Barricade for Water Main Burst Recovery,L3,Vehicle Stopped Before a Lane Blockage
+3,Temporary Steel Decking for Water Main Burst Recovery,L3,Vehicle Vibrating While Passing Over a Metal Cover
+4,Temporary Sand Heap for Water Main Burst Recovery,L3,Vehicle Avoiding a Sand Pile on the Road Surface
+5,Asphalt Milling Step for Water Main Burst Recovery,L3,Vehicle Passing Over a Milled Road Surface Edge
+6,Dropped Object (Cardboard Box) during Water Main Burst Recovery,L3,Vehicle Avoiding a Box on the Roadway
+7,Temporary Construction Warning Sign for Water Main Burst Recovery,L3,Vehicle Decelerating Upon Seeing a Construction Warning Sign
+8,Nighttime Flashing Warning Light for Water Main Burst Recovery,L3,Vehicle Traveling Slowly Upon Seeing a Nighttime Flashing Signal
+9,Plastic Water-Filled Barrier for Water Main Burst Recovery,L3,Vehicle Passing Beside a Water Barrier Blockade Line
+10,Temporary Construction Fence for Water Main Burst Recovery,L3,Narrowed Passage Section Due to Fencing
+11,Exposed Underground Pipe during Water Main Burst Recovery,L3,Vehicle Passing Beside an Exposed Pipeline
+12,Damaged Sidewalk Block during Water Main Burst Recovery,L3,Pedestrian Stepping on a Broken Sidewalk Boundary
+13,Temporary Wooden Plank for Water Main Burst Recovery,L3,Pedestrian Carefully Crossing Over a Wooden Plank
+14,Stacked Sandbags for Water Main Burst Recovery,L3,Vehicle Veering Beside a Sack Pile
+15,Pothole from Water Main Burst Recovery,L3,Vehicle Avoiding a Depressed Road Surface
+16,Temporary Detour Arrow Sign for Water Main Burst Recovery,L3,Vehicle Changing Direction Following Arrow Guidance
+17,Accident Scene Police Line for Water Main Burst Recovery,L3,Person Stopped Before an Access Control Line
+18,Construction Rebar Structure for Water Main Burst Recovery,L3,Narrowed Space Beside a Rebar Framework
+19,Temporary Speed Bump for Water Main Burst Recovery,L3,Vehicle Decelerating While Passing Over a Temporary Bump
+20,Protective Tarpaulin Cover for Water Main Burst Recovery,L3,Vehicle Passing Beside a Tarpaulin-Covered Work Zone
+21,Traffic Cone for City Gas Pipeline Construction,L3,Vehicle Detouring Along Orange Delineators in Front of City Gas Construction
+22,Barricade for City Gas Pipeline Construction,L3,Vehicle Stopped Before a City Gas Construction Blockage
+23,Temporary Steel Decking for City Gas Pipeline Construction,L3,Vehicle Vibrating While Passing Over a City Gas Construction Metal Cover
+24,Temporary Sand Heap for City Gas Pipeline Construction,L3,Vehicle Veering Beside a City Gas Construction Earth Pile
+25,Asphalt Milling Step for City Gas Pipeline Construction,L3,Vehicle Passing Over a Milled Road Surface Edge of City Gas Construction
+26,Dropped Object (Cardboard Box) during City Gas Pipeline Construction,L3,Vehicle Avoiding a Dropped Box from City Gas Construction
+27,Temporary Construction Warning Sign for City Gas Pipeline Construction,L3,Vehicle Decelerating Upon Seeing a City Gas Construction Sign
+28,Nighttime Flashing Warning Light for City Gas Pipeline Construction,L3,Vehicle Traveling Slowly Upon Seeing a City Gas Construction Nighttime Flashing Signal
+29,Plastic Water-Filled Barrier for City Gas Pipeline Construction,L3,Vehicle Passing Beside a City Gas Construction Water Barrier Blockade Line
+30,Temporary Construction Fence for City Gas Pipeline Construction,L3,Narrowed Passage Section Due to City Gas Construction Fencing
+31,Exposed Underground Pipe during City Gas Pipeline Construction,L3,Vehicle Passing Beside an Exposed Pipeline from City Gas Construction
+32,Damaged Sidewalk Block during City Gas Pipeline Construction,L3,Pedestrian Stepping on a Broken Sidewalk Boundary from City Gas Construction
+33,Temporary Wooden Plank for City Gas Pipeline Construction,L3,Pedestrian Carefully Crossing Over a Wooden Plank from City Gas Construction
+34,Stacked Sandbags for City Gas Pipeline Construction,L3,Vehicle Veering Beside a City Gas Construction Sack Pile
+35,Pothole from City Gas Pipeline Construction,L3,Vehicle Avoiding a Depressed Road Surface from City Gas Construction
+36,Temporary Detour Arrow Sign for City Gas Pipeline Construction,L3,Vehicle Changing Direction Following City Gas Construction Arrow Guidance
+37,Accident Scene Police Line for City Gas Pipeline Construction,L3,Person Stopped Before a City Gas Construction Control Line
+38,Construction Rebar Structure for City Gas Pipeline Construction,L3,Narrowed Space Beside a City Gas Construction Rebar Framework
+39,Temporary Speed Bump for City Gas Pipeline Construction,L3,Vehicle Decelerating While Passing Over a Temporary City Gas Construction Bump
+40,Protective Tarpaulin Cover for City Gas Pipeline Construction,L3,Vehicle Passing Beside a Tarpaulin-Covered City Gas Construction Work Zone
+41,Traffic Cone for Telecommunication Cable Laying,L3,Vehicle Detouring Along Orange Delineators in Front of Telecommunication Construction
+42,Barricade for Telecommunication Cable Laying,L3,Vehicle Stopped Before a Telecommunication Construction Blockage
+43,Temporary Steel Decking for Telecommunication Cable Laying,L3,Vehicle Vibrating While Passing Over a Telecommunication Construction Metal Cover
+44,Temporary Sand Heap for Telecommunication Cable Laying,L3,Vehicle Veering Beside a Telecommunication Construction Earth Pile
+45,Asphalt Milling Step for Telecommunication Cable Laying,L3,Vehicle Passing Over a Milled Road Surface Edge of Telecommunication Construction
+46,Dropped Object (Cardboard Box) during Telecommunication Cable Laying,L3,Vehicle Avoiding a Dropped Box from Telecommunication Construction
+47,Temporary Construction Warning Sign for Telecommunication Cable Laying,L3,Vehicle Decelerating Upon Seeing a Telecommunication Construction Sign
+48,Nighttime Flashing Warning Light for Telecommunication Cable Laying,L3,Vehicle Traveling Slowly Upon Seeing a Telecommunication Construction Nighttime Flashing Signal
+49,Plastic Water-Filled Barrier for Telecommunication Cable Laying,L3,Vehicle Passing Beside a Telecommunication Construction Water Barrier Blockade Line
+50,Temporary Construction Fence for Telecommunication Cable Laying,L3,Narrowed Passage Section Due to Telecommunication Construction Fencing
+51,Exposed Underground Pipe during Telecommunication Cable Laying,L3,Vehicle Passing Beside an Exposed Pipeline from Telecommunication Construction
+52,Temporary Wooden Plank for Telecommunication Cable Laying,L3,Pedestrian Carefully Crossing Over a Wooden Plank from Telecommunication Construction
+53,Stacked Sandbags for Telecommunication Cable Laying,L3,Vehicle Veering Beside a Telecommunication Construction Sack Pile
+54,Pothole from Telecommunication Cable Laying,L3,Vehicle Avoiding a Depressed Road Surface from Telecommunication Construction
+55,Temporary Detour Arrow Sign for Telecommunication Cable Laying,L3,Vehicle Changing Direction Following Telecommunication Construction Arrow Guidance
+56,Accident Scene Police Line for Telecommunication Cable Laying,L3,Person Stopped Before a Telecommunication Construction Control Line
+57,Construction Rebar Structure for Telecommunication Cable Laying,L3,Narrowed Space Beside a Telecommunication Construction Rebar Framework
+58,Temporary Speed Bump for Telecommunication Cable Laying,L3,Vehicle Decelerating While Passing Over a Temporary Telecommunication Construction Bump
+59,Protective Tarpaulin Cover for Telecommunication Cable Laying,L3,Vehicle Passing Beside a Tarpaulin-Covered Telecommunication Construction Work Zone
+60,Traffic Cone for Roadside Tree Pruning Operation,L3,Vehicle Detouring Along Orange Delineators in Front of Tree Pruning Operation
+61,Barricade for Roadside Tree Pruning Operation,L3,Vehicle Stopped Before a Tree Pruning Operation Blockage
+62,Temporary Steel Decking for Roadside Tree Pruning Operation,L3,Vehicle Vibrating While Passing Over a Tree Pruning Operation Metal Cover
+63,Temporary Sand Heap for Roadside Tree Pruning Operation,L3,Vehicle Veering Beside a Tree Pruning Operation Earth Pile
+64,Asphalt Milling Step for Roadside Tree Pruning Operation,L3,Vehicle Passing Over a Milled Road Surface Edge of Tree Pruning Operation
+65,Dropped Object (Cardboard Box) during Roadside Tree Pruning Operation,L3,Vehicle Avoiding a Dropped Box from Tree Pruning Operation
+66,Temporary Warning Sign for Roadside Tree Pruning Operation,L3,Vehicle Decelerating Upon Seeing a Tree Pruning Operation Sign
+67,Nighttime Flashing Warning Light for Roadside Tree Pruning Operation,L3,Vehicle Traveling Slowly Upon Seeing a Tree Pruning Operation Nighttime Flashing Signal
+68,Plastic Water-Filled Barrier for Roadside Tree Pruning Operation,L3,Vehicle Passing Beside a Tree Pruning Operation Water Barrier Blockade Line
+69,Temporary Fence for Roadside Tree Pruning Operation,L3,Narrowed Passage Section Due to Tree Pruning Operation Fencing
+70,Exposed Underground Pipe during Roadside Tree Pruning Operation,L3,Vehicle Passing Beside an Exposed Pipeline from Tree Pruning Operation
+71,Damaged Sidewalk Block during Roadside Tree Pruning Operation,L3,Pedestrian Stepping on a Broken Sidewalk Boundary from Tree Pruning Operation
+72,Temporary Wooden Plank for Roadside Tree Pruning Operation,L3,Pedestrian Carefully Crossing Over a Wooden Plank from Tree Pruning Operation
+73,Stacked Sandbags for Roadside Tree Pruning Operation,L3,Vehicle Veering Beside a Tree Pruning Operation Sack Pile
+74,Pothole from Roadside Tree Pruning Operation,L3,Vehicle Avoiding a Depressed Road Surface from Tree Pruning Operation
+75,Temporary Detour Arrow Sign for Roadside Tree Pruning Operation,L3,Vehicle Changing Direction Following Tree Pruning Operation Arrow Guidance
+76,Accident Scene Police Line for Roadside Tree Pruning Operation,L3,Person Stopped Before a Tree Pruning Operation Control Line
+77,Construction Rebar Structure for Roadside Tree Pruning Operation,L3,Narrowed Space Beside a Tree Pruning Operation Rebar Framework
+78,Temporary Speed Bump for Roadside Tree Pruning Operation,L3,Vehicle Decelerating While Passing Over a Temporary Tree Pruning Operation Bump
+79,Protective Tarpaulin Cover for Roadside Tree Pruning Operation,L3,Vehicle Passing Beside a Tarpaulin-Covered Tree Pruning Operation Work Zone
+80,Traffic Cone for Road Surface Crack Repair,L3,Vehicle Detouring Along Orange Delineators in Front of Crack Repair
+81,Barricade for Road Surface Crack Repair,L3,Vehicle Stopped Before a Crack Repair Blockage
+82,Temporary Steel Decking for Road Surface Crack Repair,L3,Vehicle Vibrating While Passing Over a Crack Repair Metal Cover
+83,Temporary Sand Heap for Road Surface Crack Repair,L3,Vehicle Veering Beside a Crack Repair Earth Pile
+84,Asphalt Milling Step for Road Surface Crack Repair,L3,Vehicle Passing Over a Milled Road Surface Edge of Crack Repair
+85,Dropped Object (Cardboard Box) during Road Surface Crack Repair,L3,Vehicle Avoiding a Dropped Box from Crack Repair
+86,Temporary Warning Sign for Road Surface Crack Repair,L3,Vehicle Decelerating Upon Seeing a Crack Repair Sign
+87,Nighttime Flashing Warning Light for Road Surface Crack Repair,L3,Vehicle Traveling Slowly Upon Seeing a Crack Repair Nighttime Flashing Signal
+88,Plastic Water-Filled Barrier for Road Surface Crack Repair,L3,Vehicle Passing Beside a Crack Repair Water Barrier Blockade Line
+89,Temporary Fence for Road Surface Crack Repair,L3,Narrowed Passage Section Due to Crack Repair Fencing
+90,Exposed Underground Pipe during Road Surface Crack Repair,L3,Vehicle Passing Beside an Exposed Pipeline from Crack Repair
+91,Damaged Sidewalk Block during Road Surface Crack Repair,L3,Pedestrian Stepping on a Broken Sidewalk Boundary from Crack Repair
+92,Temporary Wooden Plank for Road Surface Crack Repair,L3,Pedestrian Carefully Crossing Over a Wooden Plank from Crack Repair
+93,Stacked Sandbags for Road Surface Crack Repair,L3,Vehicle Veering Beside a Crack Repair Sack Pile
+94,Pothole from Road Surface Crack Repair,L3,Vehicle Avoiding a Depressed Road Surface from Crack Repair
+95,Temporary Detour Arrow Sign for Road Surface Crack Repair,L3,Vehicle Changing Direction Following Crack Repair Arrow Guidance
+96,Accident Scene Police Line for Road Surface Crack Repair,L3,Person Stopped Before a Crack Repair Control Line
+97,Construction Rebar Structure for Road Surface Crack Repair,L3,Narrowed Space Beside a Crack Repair Rebar Framework
+98,Temporary Speed Bump for Road Surface Crack Repair,L3,Vehicle Decelerating While Passing Over a Temporary Crack Repair Bump
+99,Protective Tarpaulin Cover for Road Surface Crack Repair,L3,Vehicle Passing Beside a Tarpaulin-Covered Crack Repair Work Zone
+100,Traffic Cone in Front of a Building Construction Site,L3,Vehicle Detouring Along Orange Delineators in Front of a Construction Site
+101,Barricade in Front of a Building Construction Site,L3,Vehicle Stopped Before a Construction Site Blockage
+102,Temporary Steel Decking in Front of a Building Construction Site,L3,Vehicle Vibrating While Passing Over a Construction Site Metal Cover
+103,Temporary Sand Heap in Front of a Building Construction Site,L3,Vehicle Veering Beside a Construction Site Earth Pile
+104,Asphalt Milling Step in Front of a Building Construction Site,L3,Vehicle Passing Over a Milled Road Surface Edge of a Construction Site
+105,Dropped Object (Cardboard Box) in Front of a Building Construction Site,L3,Vehicle Avoiding a Dropped Box from a Construction Site
+106,Temporary Warning Sign in Front of a Building Construction Site,L3,Vehicle Decelerating Upon Seeing a Construction Site Sign
+107,Nighttime Flashing Warning Light in Front of a Building Construction Site,L3,Vehicle Traveling Slowly Upon Seeing a Construction Site Nighttime Flashing Signal
+108,Plastic Water-Filled Barrier in Front of a Building Construction Site,L3,Vehicle Passing Beside a Construction Site Water Barrier Blockade Line
+109,Temporary Fence in Front of a Building Construction Site,L3,Narrowed Passage Section Due to Construction Site Fencing
+110,Traffic Cone for Traffic Light Replacement Work,L3,Vehicle Detouring Along Orange Delineators in Front of Traffic Light Replacement Work
+111,Barricade for Traffic Light Replacement Work,L3,Vehicle Stopped Before a Traffic Light Replacement Blockage
+112,Temporary Steel Decking for Traffic Light Replacement Work,L3,Vehicle Vibrating While Passing Over a Traffic Light Replacement Metal Cover
+113,Temporary Sand Heap for Traffic Light Replacement Work,L3,Vehicle Veering Beside a Traffic Light Replacement Earth Pile
+114,Asphalt Milling Step for Traffic Light Replacement Work,L3,Vehicle Passing Over a Milled Road Surface Edge of Traffic Light Replacement Work
+115,Traffic Cone for Moving Ladder Truck Operation,L3,Vehicle Detouring Along Orange Delineators in Front of Ladder Truck Operation
+116,Barricade for Moving Ladder Truck Operation,L3,Vehicle Stopped Before a Ladder Truck Operation Blockage
+117,Temporary Steel Decking for Moving Ladder Truck Operation,L3,Vehicle Vibrating While Passing Over a Ladder Truck Operation Metal Cover
+118,Temporary Sand Heap for Moving Ladder Truck Operation,L3,Vehicle Veering Beside a Ladder Truck Operation Earth Pile
+119,Asphalt Milling Step for Moving Ladder Truck Operation,L3,Vehicle Passing Over a Milled Road Surface Edge of Ladder Truck Operation
+120,Traffic Cone for Subway Ventilation Grating Repair,L3,Vehicle Detouring Along Orange Delineators in Front of Ventilation Grating Repair
+121,Barricade for Subway Ventilation Grating Repair,L3,Vehicle Stopped Before a Ventilation Grating Repair Blockage
+122,Temporary Steel Decking for Subway Ventilation Grating Repair,L3,Vehicle Vibrating While Passing Over a Ventilation Grating Repair Metal Cover
+123,Temporary Sand Heap for Subway Ventilation Grating Repair,L3,Vehicle Veering Beside a Ventilation Grating Repair Earth Pile
+124,Asphalt Milling Step for Subway Ventilation Grating Repair,L3,Vehicle Passing Over a Milled Road Surface Edge of Ventilation Grating Repair
+125,Traffic Cone Resulting from Road Water Flushing,L3,Vehicle Detouring Along Orange Delineators After Road Water Flushing
+126,Barricade Resulting from Road Water Flushing,L3,Vehicle Stopped Before a Blockage After Road Water Flushing
+127,Temporary Steel Decking Resulting from Road Water Flushing,L3,Vehicle Vibrating While Passing Over a Metal Cover After Road Water Flushing
+128,Temporary Sand Heap Resulting from Road Water Flushing,L3,Vehicle Veering Beside an Earth Pile After Road Water Flushing
+129,Asphalt Milling Step Resulting from Road Water Flushing,L3,Vehicle Passing Over a Milled Road Surface Edge After Road Water Flushing
+130,Asphalt Milled Surface for Utility Pole Repair,L3,Vehicle Passing Over a Milled Road Surface Edge of Utility Pole Repair
+131,Stacked Construction Materials for Roadside Tree Pruning,L3,Narrowed Space Beside a Stack of Tree Pruning Materials
+132,Temporary Steel Decking for Water and Sewer Excavation,L3,Vehicle Vibrating While Passing Over a Metal Cover in an Excavation Zone
+133,Plastic Water-Filled Barrier for Traffic Light Maintenance,L3,Vehicle Passing Beside a Water Barrier Blockade Line of Traffic Light Maintenance
+134,Mobile A-Frame Sign for Moving Ladder Truck Operation,L3,Vehicle Changing Direction In Front of a Ladder Truck Operation Sign
+135,Asphalt Milled Surface for Roadside Tree Pruning,L3,Vehicle Passing Over a Milled Road Surface Edge of Tree Pruning Operation
+136,Temporary Sand Heap for Event Parade Control,L3,Vehicle Detouring Beside a Parade Control Sand Pile
+137,Nighttime Flashing Warning Light for Manhole Cover Replacement,L3,Vehicle Decelerating Upon Seeing a Manhole Replacement Flashing Light
+138,Temporary Steel Decking for Lane Marking Painting,L3,Vehicle Vibrating While Passing Over a Metal Cover in a Painting Zone
+139,Temporary Steel Decking for Rally and Demonstration March,L3,Vehicle Vibrating While Passing Over a Metal Cover in a Marching Zone
+140,Stacked Construction Materials for Movie Filming Control,L3,Narrowed Space Beside a Pile of Filming Equipment
+141,Temporary Fence for Construction Material Unloading,L3,Narrowed Passage Section Due to Unloading Fencing
+142,Nighttime Flashing Warning Light for Soundproof Wall Installation,L3,Vehicle Decelerating Upon Seeing a Soundproof Wall Work Flashing Light
+143,Nighttime Flashing Warning Light for City Gas Pipeline Construction,L3,Vehicle Decelerating Upon Seeing a City Gas Construction Flashing Light
+144,Nighttime Flashing Warning Light for Guardrail Repair,L3,Vehicle Decelerating Upon Seeing a Guardrail Repair Flashing Light
+145,Temporary Sand Heap for Road Pavement Construction,L3,Vehicle Veering Beside a Pavement Construction Earth Pile
+146,Temporary Fence for Marathon Race Control,L3,Narrowed Passage Section Due to Race Fencing
+147,Plastic Water-Filled Barrier for Temporary Detour Road,L3,Vehicle Passing Beside a Detour Road Water Barrier Blockade Line
+148,Temporary Sand Heap near Building Construction Shield,L3,Vehicle Veering Beside an Earth Pile in Front of a Construction Shield
+149,Plastic Water-Filled Barrier for Lane Marking Painting,L3,Vehicle Passing Beside a Painting Zone Water Barrier Blockade Line
+150,Plastic Water-Filled Barrier for Marathon Race Control,L3,Vehicle Passing Beside a Race Control Water Barrier Blockade Line
+151,Traffic Cone for Streetlight Replacement Work,L3,Vehicle Detouring Along Orange Delineators in Front of Streetlight Work
+152,Traffic Cone for CCTV Installation Work,L3,Vehicle Detouring Along Orange Delineators in Front of CCTV Work
+153,Safety Sign for Electric Utility Tunnel Construction,L3,Vehicle Decelerating Upon Seeing a Utility Tunnel Work Warning Sign
+154,Nighttime Flashing Warning Light for Sewer Maintenance,L3,Vehicle Decelerating Upon Seeing a Sewer Maintenance Flashing Light
+155,Temporary Fence for Temporary Detour Road,L3,Narrowed Passage Section Due to Detour Road Fencing
+156,Plastic Water-Filled Barrier for Gas Leak Inspection,L3,Vehicle Passing Beside a Gas Inspection Water Barrier Blockade Line
+157,Temporary Steel Decking for Dropped Object Retrieval Work,L3,Vehicle Vibrating While Passing Over a Metal Cover in a Retrieval Zone
+158,Temporary Sand Heap during Snow Removal Operation,L3,Vehicle Veering Beside a Sand Pile After Snow Removal
+159,Traffic Cone for Traffic Guide Sign Installation,L3,Vehicle Detouring Along Orange Delineators in Front of Guide Sign Installation
+160,Stacked Construction Materials on Subway Construction Decking,L3,Narrowed Space Beside a Pile of Subway Construction Materials
+161,Nighttime Flashing Warning Light for Pedestrian Overpass Demolition Work,L3,Vehicle Decelerating Upon Seeing an Overpass Demolition Flashing Light
+162,Temporary Fence for Pothole Repair,L3,Narrowed Passage Section Due to Pothole Repair Fencing
+163,Temporary Fence for Bicycle Race Control,L3,Narrowed Passage Section Due to Race Control Fencing
+164,Safety Sign for Rally and Demonstration March,L3,Vehicle Decelerating Upon Seeing a March Control Warning Sign
+165,Plastic Water-Filled Barrier for Road Washer Truck,L3,Vehicle Passing Beside a Road Washer Water Barrier Blockade Line
+166,Nighttime Flashing Warning Light for Median Barrier Repair,L3,Vehicle Decelerating Upon Seeing a Median Barrier Repair Flashing Light
+167,Stacked Materials during Accident Clearance,L3,Narrowed Space Beside a Pile of Accident Clearance Materials
+168,Plastic Water-Filled Barrier during Road Surface Sweeping,L3,Vehicle Passing Beside a Sweeping Zone Water Barrier Blockade Line
+169,Asphalt Milled Surface Near Illegally Stacked Materials,L3,Vehicle Passing Over a Milled Road Surface Edge Around Stacked Materials
+170,Traffic Cone for DUI Checkpoint,L3,Vehicle Traveling Slowly Following Orange Delineators Before a Checkpoint Lane
+171,DUI Checkpoint Warning Sign,L3,Vehicle Reducing Speed Upon Seeing a Checkpoint Warning Sign
+172,Checkpoint Mobile Floodlight,L3,Vehicle Traveling Slowly Under Bright Illumination
+173,DUI Checkpoint Deceleration Plastic Barrier,L3,Vehicle Traveling Slowly Beside a Checkpoint Water Barrier Blockade Line
+174,DUI Checkpoint Portable Speed Bump,L3,Vehicle Decelerating While Passing Over a Checkpoint Temporary Bump
+175,Traffic Cone for Election Campaign Vehicle,L3,Vehicle Detouring Along Orange Delineators in Front of a Campaign Vehicle
+176,Campaign Mobile Fence,L3,Narrowed Travel Section Due to Campaign Fencing
+177,Candidate Temporary Banner Support,L3,Narrowed Pedestrian Space Beside a Banner Support
+178,Campaign Stage Cable Bundle,L3,Pedestrian Carefully Passing Beside a Bundle of Tangled Cables
+179,Campaign Vehicle Generator Noise Barrier,L3,Narrowed Travel Space Beside a Noise Barrier
+180,Traffic Cone for Bridge Expansion Joint Repair,L3,Vehicle Detouring Along Orange Delineators in Front of Joint Repair
+181,Steel Barricade for Bridge Repair,L3,Vehicle Stopped Before a Bridge Repair Blockage
+182,Steel Plate Covering Damaged Bridge Joint,L3,Vehicle Vibrating While Passing Over a Steel-Covered Joint
+183,Asphalt Milling Step for Bridge Joint Replacement,L3,Vehicle Passing Over a Milled Road Surface Edge for Joint Replacement
+184,Waterproof Tarpaulin Cover for Bridge Repair Materials,L3,Vehicle Veering Beside Tarpaulin-Covered Materials
+185,Traditional Market Access Control Mobile Bollard,L3,Vehicle Stopped Before a Bollard at a Market Entrance
+186,Temporary Street Vendor Marquee Tent,L3,Narrowed Pedestrian Space Beside a Temporary Tent
+187,Wooden Low Table for Holiday Specialties,L3,Pedestrian Veering Beside a Wooden Low Table
+188,Temporary Parasol Anchor Base,L3,Pedestrian Stepping Away to Avoid a Parasol Anchor Base
+189,Market Vehicle Access Control A-Frame Sign,L3,Vehicle Changing Direction In Front of a Market Control Sign
+190,Traffic Cone for Sewer Dredging Operation,L3,Vehicle Detouring Along Orange Delineators in Front of Dredging Operation
+191,Open Manhole Fall Prevention Fence,L3,Narrowed Space Due to Fencing Around an Open Manhole
+192,Sewer Sludge Sacks,L3,Pedestrian Veering Beside a Sack Pile
+193,Rubber Protection Cover for Dredging Hoses,L3,Vehicle Carefully Passing Over a Hose Protection Cover
+194,Nighttime Flashing Warning Light for Sewer Dredging,L3,Vehicle Decelerating Upon Seeing a Dredging Work Flashing Light
+195,Roadkill Collection Vehicle LED Arrow Sign,L3,Vehicle Changing Lanes Following an LED Arrow
+196,Roadkill Collection Shoulder Control Traffic Cone,L3,Vehicle Traveling Slowly Following Orange Delineators for Shoulder Control
+197,Empty Cardboard Box for Animal Carcass Handling,L3,Pedestrian Carefully Passing Beside an Empty Box
+198,Sawdust Pile Covering Bloodstains,L3,Vehicle Veering Beside a Sawdust Pile
+199,Nighttime Flare for Secondary Accident Prevention,L3,Vehicle Stopping at a Distance Upon Seeing a Flare Signal
+200,Plastic Water-Filled Barrier for Rest Area Expansion,L3,Vehicle Passing Beside a Rest Area Work Water Barrier Blockade Line
+201,Construction Site Entry/Exit Temporary Plastic Fence,L3,Narrowed Travel Section Due to Entry/Exit Fencing
+202,Green Netting for Soil Erosion Prevention,L3,Restricted Edge Space Beside Green Netting
+203,Spilled Soil from Construction Hauling,L3,Vehicle Avoiding Spilled Earth/Soil
+204,Asphalt Milling Step for Shoulder Paving,L3,Vehicle Passing Over a Milled Road Surface Edge for Shoulder Paving
+205,Tunnel Lighting Replacement Lane Control Traffic Cone,L3,Vehicle Changing Lanes Following Orange Delineators for Tunnel Work
+206,Truck-Mounted Attenuator (TMA) Behind Aerial Work Platform,L3,Vehicle Following Behind an Attenuator Attached to a Work Truck
+207,Waste Fluorescent Lamp Box on Tunnel Floor,L3,Vehicle Carefully Passing Beside a Box of Used Fluorescent Lamps
+208,Tunnel Nighttime Lane Control Flashing Warning Light,L3,Vehicle Changing Lanes Upon Seeing a Tunnel Flashing Light
+209,Tunnel Maintenance Guidance Portable VMS,L3,Vehicle Changing Lanes Upon Seeing a Portable VMS
+210,Police Line Around Sinkhole,L3,Person Stopped Before a Sinkhole Control Line
+211,Sinkhole Access Block Steel Barricade,L3,Vehicle Stopped Before a Sinkhole Blockage
+212,Temporary Sinkhole Repair Sand Pile,L3,Vehicle Veering Beside a Restoration Earth Pile
+213,Temporary Steel Decking Covering Sinkhole,L3,Vehicle Vibrating While Passing Over a Sinkhole Cover Plate
+214,Soil Investigation Coring Hole Step,L3,Vehicle Avoiding a Step Created by a Coring Hole
+215,Debris from Retaining Wall at Risk of Collapse,L3,Narrowed Space Beside Retaining Wall Debris
+216,Netting Fence Restricting Access to Collapse Hazard,L3,Pedestrian Stopped Before a Netting Fence
+217,Steel Pipe Scaffolding for Reinforcement Construction,L3,Narrowed Travel Space Beside Steel Pipe Scaffolding
+218,Thick Tarpaulin Cover for Rockfall Prevention,L3,Vehicle Passing Beside a Tarpaulin-Covered Slope
+219,Temporary Wooden Plank for Material Transport,L3,Pedestrian Carefully Crossing Over a Wooden Plank
