@@ -1,0 +1,50 @@
+A multi-lane roundabout where vehicles travel in a clockwise direction (Left-hand traffic).
+A highway entrance marked with a green-and-yellow 'Motorway' chop-suit sign used in the UK.
+An intersection where the primary traffic light is placed horizontally on a pole on the far-left corner.
+A residential street featuring a 'Yield' sign with English text and a yellow background.
+A high-speed expressway utilizing a 'Diverging Diamond Interchange' (DDI) structure.
+A rural road with a 'Moose Crossing' warning sign featuring a moose silhouette.
+A city intersection where 'Turn left on red' is a standard, permitted maneuver.
+A road section where the center dividing lines are solid white instead of yellow.
+A school zone marked with a blue rectangular sign showing a silhouette of a parent and child in European style.
+A highway exit ramp that splits into three directions simultaneously using a 'Basketweave' design.
+A signalized crossing where the pedestrian 'Walk' light is a flashing white silhouette
+A mountain pass road with a 'Runaway Truck Ramp' made of deep sand mounds in a U.S. desert style
+A bridge entrance featuring a 'Low Clearance' sign measured in feet and inches (e.g., 12' 6')
+A metropolitan boulevard with a dedicated 'Tram-only' lane in the far-right lane without physical barriers
+A toll booth area using only 'E-ZPass' branding and purple signage
+A crosswalk that is completely unmarked by paint but designated by a 'Crosswalk' sign
+A suburban intersection with a 'No Turn on Red' sign consisting of a red circle and a black arrow
+A freeway where the speed limit is posted as '70 MPH' on a white rectangular sign
+A road where the 'Stop' sign is an inverted triangle instead of an octagon
+A junction where traffic signals use a 'Vertical Red-Amber-Green' sequence simultaneously
+A two-lane road where the shoulder is separated by a rumble strip and a wide green painted strip
+A highway with 'HOV 2+ ONLY' signage using a diamond symbol on overhead gantries
+An urban street with 'Back-in Angled Parking' spaces marked with blue paint
+A railway crossing with a 'Crossbuck' sign (X-shape) that has no lights or bells
+A tunnel entrance marked with a 'Height Limit' sign using a red circle and '4.5m' in a foreign font
+A bike lane located in the exact center of a four-lane road without a median
+A 'Dead End' sign that is a yellow diamond with a black T-shape symbol
+A road where the curb is painted solid red to indicate a 'No Standing' zone
+An expressway with 'Cat's Eye' reflectors that glow red on the wrong side of the road
+A pedestrian bridge with a 'Cyclists Dismount' sign in a blue circular format
+A highway merge point where the 'Merge' sign shows two arrows joining into one in a U.S. style
+A downtown street with a 'Congestion Charge Zone' sign featuring a red 'C' in a circle
+A rural highway with a 'Kangaroo Crossing' warning sign
+A specialized 'B-Signal' for buses that uses a white vertical bar instead of a green light
+A roundabout with a 'Priority to the Right' rule and no yield signs at the entry
+A road marked with 'Zig-zag' white lines approaching a pedestrian crossing
+A parking lot entrance with a 'No Entry' sign that is a white horizontal bar on a red circle
+A highway where the distance markers are in miles (e.g., 'Exit 45 - 1 Mile')
+A residential area with a 'Speed Bump' sign that says 'HUMP' on a yellow diamond
+An intersection with a 'Box Junction' marked by criss-cross yellow lines in the center
+A road where the pedestrian signal is a 'Don't Walk' text message in red
+A highway with an 'Emergency Pull-out' area marked with a blue 'SOS' sign and a telephone icon
+A coastal road with a 'Tsunami Hazard Zone' sign featuring a blue wave and a person running
+A bridge with a 'Weight Limit' sign showing a silhouette of a truck and 'Tonnes'
+A smart motorway where the hard shoulder is used as a permanent driving lane
+A street where the 'One Way' sign is a long thin white arrow on a black rectangle
+A junction where the signal head is suspended by wires in the center of the intersection
+A road with a 'Soft Verge' warning sign and a car tilting on a slope
+A highway with a 'Keep Clear' message painted in giant white letters on the asphalt
+An urban road with a 'Bus Lane' marked with a solid thick red line on the pavement
