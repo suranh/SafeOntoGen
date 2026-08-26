@@ -1,50 +1,65 @@
-A construction zone using fluorescent orange diamond-shaped signs with the text 'ROAD WORK AHEAD'.
-A temporary traffic control point where a worker uses a handheld 'STOP/SLOW' paddle on a long pole instead of a red light stick.
-A detour route marked with black-on-orange rectangular signs labeled 'DETOUR' with a thick arrow.
-A road maintenance area protected by 'Tiger Tail' (black and yellow) plastic water barriers in a style used only in the UK.
-A temporary lane closure where the transition is marked by flashing yellow arrow boards mounted on the back of a pickup truck with a 'FOLLOW ME' sign.
-A construction site using tall, thin orange 'Delineator Tubes' with a heavy black rubber base not used in Korea.
-A mobile work zone where the lead vehicle displays a large 'KEEP LEFT' white arrow on a blue circular background.
-A temporary pedestrian walkway bypass made of wooden planks and yellow plastic chain links.
-A utility repair site where the workers are wearing all-orange high-visibility jumpsuits without reflective silver 'X' patterns.
-A temporary traffic signal at a one-lane bridge that uses vertical Red-Amber-Green lamps on a portable tripod.
-A road resurfacing project where 'FRESH TAR' is warned by a yellow diamond sign with a car kicking up stones.
-A construction entrance marked with a 'Lorry Route' sign featuring a black truck silhouette on a white background with a blue border.
-A temporary speed limit change indicated by a white rectangular sign with 'SPEED LIMIT 25' in a bold black font.
-A highway work zone using 'Crash Attenuator' trucks painted in a bright lime-green 'high-viz' color scheme.
-A temporary 'No Parking' zone marked by cardboard signs tied to trees with the words 'TOW AWAY ZONE' in English.
-A manhole repair site surrounded by red and white striped wooden barricades (A-frame style).
-A temporary lane shift where the new lines are painted in bright pink 'surveyor's' paint.
-A flagger directing traffic using a large red square flag instead of a glowing baton.
-A construction zone where the 'End of Work' is signaled by a white sign with a black diagonal strike-through.
-A temporary bridge bypass marked with 'WEIGHT LIMIT 5T' in a red-bordered circle with European typography.
-A road painting crew using a vehicle with a large flashing 'X' in red LEDs to stop following traffic.
-A utility work area where the safety cones have white horizontal stripes instead of the standard Korean reflective sleeves.
-A temporary 'BUMP' sign that is a yellow diamond with a silhouette of a person on a seesaw.
-A construction worker using a whistle to stop cars at a private driveway exit onto a main road.
-A temporary 'Road Closed' barrier consisting of a heavy metal gate painted in yellow and black diagonal stripes.
-A night-time work zone illuminated by large 'Moonlight' balloon lamps that are purple in color.
-A temporary walkway where 'SIDEWALK CLOSED' is written on a white board with a red 'C'.
-A highway construction site where the 'Taper' is formed by vertical panels with diagonal orange stripes.
-A temporary roundabout formed by large tires painted white in the middle of a four-way intersection.
-A mobile lane closure where the trailing vehicle has a large 'CAUTION' sign in a serif font.
-A temporary stop line marked by a thick red adhesive tape on the asphalt.
-A construction zone entrance guarded by a robotic flagger holding a mechanical arm.
-A temporary 'LOOSE GRAVEL' warning sign featuring English text and a red triangle border.
-A worker manually flipping a 'MEN AT WORK' sign that is a yellow square on a spring-loaded base.
-A temporary lane marked by blue reflective road studs (cat's eyes).
-A road closure using concrete 'Jersey Barriers' painted in a bright checkerboard pattern of red and white.
-A temporary detour marked with a symbolic 'Black Square' on a yellow background.
-A construction site using blue safety netting instead of the standard green or orange mesh used in Korea.
-A worker directing traffic with a green light stick (not red or orange).
-A temporary 'NO OVERTAKING' sign consisting of two cars (one red, one black) inside a red circle.
-A utility truck with a telescopic mast displaying a 'CCTV IN OPERATION' sign in English.
-A temporary ramp marked with a 'STEEL PLATE AHEAD' sign in a bright purple color.
-A work zone where the distance is marked as 'WORK AHEAD 500 YARDS'.
-A temporary 'WAIT HERE FOR GREEN' sign in black text on a white rectangular board.
-A construction vehicle with a yellow rotating beacon that flashes in a 'heartbeat' pattern.
-A temporary 'ONE WAY' street created for an event, marked by blue flags every 10 meters.
-A 'NEW ROAD LAYOUT AHEAD' sign in a large yellow rectangle with black text.
-A temporary pedestrian crossing using yellow 'Zebra' stripes instead of white.
-A roadwork area where the 'SLOW' sign is written in spray paint directly on the road in English.
-A temporary barrier made of sandbags stacked 1 meter high along the center of the road.
+2, A construction zone using fluorescent orange diamond-shaped signs with the text 'ROAD WORK AHEAD'.
+3, A temporary traffic control point where a worker uses a handheld 'STOP/SLOW' paddle on a long pole instead of a red light stick.
+4, A detour route marked with black-on-orange rectangular signs labeled 'DETOUR' with a thick arrow.
+1, A road maintenance area protected by 'Tiger Tail' (black and yellow) plastic water barriers in a style used only in the UK.
+2, A temporary lane closure where the transition is marked by flashing yellow arrow boards mounted on the back of a pickup truck with a 'FOLLOW ME' sign.
+4, A construction site using tall, thin orange 'Delineator Tubes' with a heavy black rubber base not used in Korea.
+2, A mobile work zone where the lead vehicle displays a large 'KEEP LEFT' white arrow on a blue circular background.
+4, A temporary pedestrian walkway bypass made of wooden planks and yellow plastic chain links.
+4, A utility repair site where the workers are wearing all-orange high-visibility jumpsuits without reflective silver 'X' patterns.
+3, A temporary traffic signal at a one-lane bridge that uses vertical Red-Amber-Green lamps on a portable tripod.
+4, A road resurfacing project where 'FRESH TAR' is warned by a yellow diamond sign with a car kicking up stones.
+2, A construction entrance marked with a 'Lorry Route' sign featuring a black truck silhouette on a white background with a blue border.
+4, A temporary speed limit change indicated by a white rectangular sign with 'SPEED LIMIT 25' in a bold black font.
+2, A highway work zone using 'Crash Attenuator' trucks painted in a bright lime-green 'high-viz' color scheme.
+3, A temporary 'No Parking' zone marked by cardboard signs tied to trees with the words 'TOW AWAY ZONE' in English.
+4, A manhole repair site surrounded by red and white striped wooden barricades (A-frame style).
+4, A temporary lane shift where the new lines are painted in bright pink 'surveyor's' paint.
+4, A flagger directing traffic using a large red square flag instead of a glowing baton.
+4, A construction zone where the 'End of Work' is signaled by a white sign with a black diagonal strike-through.
+1, A temporary bridge bypass marked with 'WEIGHT LIMIT 5T' in a red-bordered circle with European typography.
+4, A road painting crew using a vehicle with a large flashing 'X' in red LEDs to stop following traffic.
+4, A utility work area where the safety cones have white horizontal stripes instead of the standard Korean reflective sleeves.
+4, A temporary 'BUMP' sign that is a yellow diamond with a silhouette of a person on a seesaw.
+3, A construction worker using a whistle to stop cars at a private driveway exit onto a main road.
+4, A temporary 'Road Closed' barrier consisting of a heavy metal gate painted in yellow and black diagonal stripes.
+4, A night-time work zone illuminated by large 'Moonlight' balloon lamps that are purple in color.
+2, A temporary walkway where 'SIDEWALK CLOSED' is written on a white board with a red 'C'.
+4, A highway construction site where the 'Taper' is formed by vertical panels with diagonal orange stripes.
+3, A temporary roundabout formed by large tires painted white in the middle of a four-way intersection.
+4, A mobile lane closure where the trailing vehicle has a large 'CAUTION' sign in a serif font.
+4, A temporary stop line marked by a thick red adhesive tape on the asphalt.
+3, A construction zone entrance guarded by a robotic flagger holding a mechanical arm.
+1, A temporary 'LOOSE GRAVEL' warning sign featuring English text and a red triangle border.
+4, A worker manually flipping a 'MEN AT WORK' sign that is a yellow square on a spring-loaded base.
+4, A temporary lane marked by blue reflective road studs (cat's eyes).
+2, A road closure using concrete 'Jersey Barriers' painted in a bright checkerboard pattern of red and white.
+4, A temporary detour marked with a symbolic 'Black Square' on a yellow background.
+4, A construction site using blue safety netting instead of the standard green or orange mesh used in Korea.
+4, A worker directing traffic with a green light stick (not red or orange).
+2, A temporary 'NO OVERTAKING' sign consisting of two cars (one red, one black) inside a red circle.
+1, A utility truck with a telescopic mast displaying a 'CCTV IN OPERATION' sign in English.
+4, A temporary ramp marked with a 'STEEL PLATE AHEAD' sign in a bright purple color.
+3, A work zone where the distance is marked as 'WORK AHEAD 500 YARDS'.
+2, A temporary 'WAIT HERE FOR GREEN' sign in black text on a white rectangular board.
+3, A construction vehicle with a yellow rotating beacon that flashes in a 'heartbeat' pattern.
+4, A temporary 'ONE WAY' street created for an event, marked by blue flags every 10 meters.
+2, A 'NEW ROAD LAYOUT AHEAD' sign in a large yellow rectangle with black text.
+2, A temporary pedestrian crossing using yellow 'Zebra' stripes instead of white.
+1, A roadwork area where the 'SLOW' sign is written in spray paint directly on the road in English.
+4, A temporary barrier made of sandbags stacked 1 meter high along the date road.
+1, A French work-zone sign reading 'Déviation' (detour) in white text on a pink background, left in place for the duration of the roadworks.
+1, A Japanese construction barrier displaying '工事中' (under construction) characters with a rotating amber light, standing for the length of the project.
+1, A US temporary sign reading 'ROAD WORK NEXT 5 MILES' with a black-on-orange diamond shape, posted for the work period.
+1, A German lane-closure sign reading 'Baustelle' (construction site) with a merge-direction arrow, in place for several weeks.
+2, A 'Texas Barricade' — a portable A-frame wooden barrier with alternating orange-and-white stripes, used to close a lane for the work's duration.
+2, A 'Jersey Barrier' extension made of interlocking bright green plastic modules, temporarily used to cordon off a construction zone for the duration of the roadworks.
+2, A 'Chevron Board' — a large trailer-mounted arrow sign displaying a sequence of flashing neon-pink chevrons, left parked to direct merging traffic through the work period.
+2, A 'K-rail' — a precast concrete barrier segment train where each block is painted in a continuous solid black-and-pink checkerboard pattern, dividing the work zone for several weeks.
+3, A temporary construction warning sign with a bright pink background and black text, left in place for the duration of the roadworks.
+3, A temporary lane divider consisting of continuous interlinked slim white steel profiles topped with a solid red horizontal stripe, used to separate construction zones.
+3, A work-zone speed-limit sign mounted on a hinged frame that is folded flat outside working hours, so the reduced limit applies only while work is in progress.
+3, A trailer-mounted temporary arrow board where the directional lights smoothly fade in and out in a flowing motion, rather than flashing sharply or sequentially.
+4, A temporary lane divider consisting of heavily interlinked steel-reinforced concrete T-shape blocks designed for a specialized barrier-transfer machine to shift active lanes daily.
+4, A work-zone barrier painted in solid bright purple instead of the standard orange-and-white pattern, standing for the duration of the closure.
+4, A construction warning light that pulses in a slow, gradual fade instead of flashing on and off, running continuously through the work period.
