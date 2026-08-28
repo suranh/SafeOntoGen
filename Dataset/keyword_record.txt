@@ -1,0 +1,432 @@
+번호,원본 키워드,원본 레이어,필요충분조건 키워드,NSC 레이어,검증 키워드,최소 매칭 수
+1,고장난 신호등,L2,신호 없는 교차로처럼 서행 진입하는 차량,L4,broken traffic light|malfunctioning traffic light|traffic light|signal light|light|signal|damaged,1
+2,점멸 고정된 신호등,L2,일시정지 후 눈치껏 통과하는 차량,L4,flashing mode stuck traffic light|signal stuck on flashing|traffic light|signal light|light|signal|damaged,1
+3,방향 어긋난 신호등,L2,신호 대상 착각하고 진입하는 차량,L4,misaligned traffic light|traffic light facing wrong direction|traffic light|signal light|light|signal|damaged,1
+4,전구 나간 신호등,L2,신호 인지 못하고 그대로 통과하는 차량,L4,burnt out traffic light|traffic light bulb out|traffic light|signal light|light|signal|damaged,1
+5,지연 반응하는 신호등,L2,신호 전환 예상 못하고 급정지하는 차량,L4,delayed traffic light|slow responding signal|traffic light|signal light|light|signal|damaged,1
+6,야간 소등된 신호등,L2,야간에 무신호 교차로로 오인하는 차량,L4,traffic light off at night|unlit signal at night|traffic light|signal light|light|signal|damaged,1
+7,색상 구분 어려운 신호등,L2,신호색 오판하고 진입하는 차량,L4,hard to distinguish traffic light color|faded signal color|traffic light|signal light|light|signal|damaged,1
+8,정전으로 꺼진 신호등,L2,수신호 없이 임의로 진입하는 차량,L4,traffic light out due to power outage|signal down blackout|traffic light|signal light|light|signal|damaged,1
+9,기울어진 신호등,L2,신호 놓치고 뒤늦게 정지하는 차량,L4,tilted traffic light|leaning traffic signal|traffic light|signal light|light|signal|damaged,1
+10,가지에 가려진 신호등,L2,신호 확인 못하고 서행 진입하는 차량,L4,traffic light obscured by branches|tree blocking traffic signal|traffic light|signal light|light|signal|damaged,1
+11,가려진 정지 표지판,L2,정지 없이 그대로 통과하는 차량,L4,obscured stop sign|blocked stop sign|stop sign|stop signage|sign|stop|damaged,1
+12,쓰러진 정지 표지판,L2,우선순위 착각하고 진입하는 차량,L4,fallen stop sign|toppled stop sign|stop sign|stop signage|sign|stop|damaged,1
+13,색 바랜 정지 표지판,L2,표지 인지 늦어 급정지하는 차량,L4,faded stop sign|discolored stop sign|stop sign|stop signage|sign|stop|damaged,1
+14,훼손된 정지 표지판,L2,정지 의무 인지 못하는 차량,L4,damaged stop sign|vandalized stop sign|stop sign|stop signage|sign|stop|damaged,1
+15,반사판 탈락된 정지 표지판,L2,야간에 표지 놓치고 통과하는 차량,L4,stop sign missing reflector|stop sign reflector detached|stop sign|stop signage|sign|stop|damaged,1
+16,방향이 뒤바뀐 정지 표지판,L2,정지 대상 착각하는 차량,L4,stop sign facing wrong way|reversed stop sign|stop sign|stop signage|sign|stop|damaged,1
+17,낙서로 가려진 정지 표지판,L2,표지 내용 오인하는 차량,L4,stop sign covered in graffiti|graffiti obscured stop sign|stop sign|stop signage|sign|stop|damaged,1
+18,구부러진 정지 표지판,L2,표지 시인성 저하로 늦게 반응하는 차량,L4,bent stop sign|warped stop sign|stop sign|stop signage|sign|stop|damaged,1
+19,녹슨 정지 표지판 기둥,L2,표지 위치 못 찾아 서행하는 차량,L4,rusted stop sign pole|corroded sign post|stop sign|stop signage|sign|stop|damaged,1
+20,철거되다 만 정지 표지판,L2,정지 의무 여부 혼동하는 차량,L4,partially removed stop sign|half dismantled stop sign|stop sign|stop signage|sign|stop|damaged,1
+21,색 바랜 속도제한 표지판,L2,제한속도 인지 못하고 과속하는 차량,L4,faded speed limit sign|discolored speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+22,가려진 속도제한 표지판,L2,속도 규제 모른 채 진입하는 차량,L4,obscured speed limit sign|blocked speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+23,쓰러진 속도제한 표지판,L2,속도 기준 없이 주행하는 차량,L4,fallen speed limit sign|toppled speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+24,숫자 지워진 속도제한 표지판,L2,제한속도 오인하고 과속하는 차량,L4,speed limit sign with erased numbers|illegible speed limit number|speed limit sign|speed sign|sign|speed|damaged,1
+25,반사판 벗겨진 속도제한 표지판,L2,야간에 속도 표지 놓치는 차량,L4,speed sign missing reflective coating|worn reflective speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+26,녹슨 속도제한 표지판,L2,표지 노후로 무시하는 차량,L4,rusted speed limit sign|corroded speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+27,기울어진 속도제한 표지판,L2,표지 눈에 안 띄어 과속하는 차량,L4,tilted speed limit sign|leaning speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+28,낙서로 훼손된 속도제한 표지판,L2,표지 내용 오독하는 차량,L4,speed sign vandalized with graffiti|graffiti damaged speed sign|speed limit sign|speed sign|sign|speed|damaged,1
+29,구간 표시 잘못된 속도제한 표지판,L2,잘못된 속도로 주행하는 차량,L4,incorrect speed limit sign|wrong speed zone sign|speed limit sign|speed sign|sign|speed|damaged,1
+30,가로수에 가려진 속도제한 표지판,L2,속도 표지 못 보고 과속하는 차량,L4,speed sign blocked by trees|tree obscured speed limit sign|speed limit sign|speed sign|sign|speed|damaged,1
+31,흐릿한 횡단보도 표시,L2,횡단보도 인지 못하고 서행 없이 통과하는 차량,L4,faint crosswalk marking|worn crosswalk marking|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+32,반쯤 지워진 횡단보도 표시,L2,보행 구역 오인하는 차량,L4,half erased crosswalk marking|partially faded crosswalk|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+33,겹쳐 그려진 횡단보도 표시,L2,위치 혼동하며 정지하는 차량,L4,overlapping crosswalk markings|double painted crosswalk|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+34,색 바랜 횡단보도 표시,L2,야간에 횡단보도 놓치는 차량,L4,faded crosswalk marking|discolored crosswalk paint|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+35,마모된 횡단보도 표시,L2,서행 없이 지나치는 차량,L4,worn crosswalk marking|eroded crosswalk paint|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+36,포장 공사로 끊긴 횡단보도 표시,L2,횡단보도 경계 착각하는 보행자,L4,crosswalk marking interrupted by paving work|crosswalk cut off by construction|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+37,빗물에 씻겨나간 횡단보도 표시,L2,우천 시 횡단보도 놓치는 차량,L4,crosswalk marking washed away by rain|rain worn crosswalk paint|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+38,야간 반사도료 없는 횡단보도 표시,L2,야간에 급정지하는 차량,L4,crosswalk marking without night reflective paint|non-reflective crosswalk at night|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+39,이중으로 덧칠된 횡단보도 표시,L2,정지선 위치 혼동하는 차량,L4,double repainted crosswalk marking|overpainted crosswalk|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+40,경계선 흐려진 횡단보도 표시,L2,횡단 범위 벗어나 걷는 보행자,L4,crosswalk marking with blurred boundary|faded crosswalk edge line|crosswalk marking|crosswalk sign|crosswalk|crossing|damaged,1
+41,지워진 차선,L2,차로 구분 못하고 밀려나는 차량,L4,erased lane marking|missing lane line|lane marking|lane line|lane|line|damaged,1
+42,색 바랜 차선,L2,야간에 차로 이탈하는 차량,L4,faded lane marking|discolored lane line|lane marking|lane line|lane|line|damaged,1
+43,반사도료 벗겨진 차선,L2,야간 차로 인지 못하는 차량,L4,lane marking with worn reflective paint|non-reflective lane line|lane marking|lane line|lane|line|damaged,1
+44,겹쳐 그려진 차선,L2,차로 혼동하며 갈지자로 주행하는 차량,L4,overlapping lane markings|double painted lane line|lane marking|lane line|lane|line|damaged,1
+45,마모된 중앙선,L2,중앙선 침범하는 차량,L4,worn center line|eroded centerline marking|lane marking|lane line|lane|line|damaged,1
+46,빗물에 씻겨나간 차선,L2,우천 시 차로 이탈하는 차량,L4,lane marking washed away by rain|rain worn lane line|lane marking|lane line|lane|line|damaged,1
+47,공사로 끊긴 차선,L2,차로 위치 혼란스러워하는 차량,L4,lane marking interrupted by construction|lane line cut off by roadwork|lane marking|lane line|lane|line|damaged,1
+48,방향 혼동되는 임시 차선,L2,잘못된 차로로 진입하는 차량,L4,confusing temporary lane marking|misleading temporary lane line|lane marking|lane line|lane|line|damaged,1
+49,좌우 비대칭인 차선,L2,차로 폭 오판하는 차량,L4,asymmetric lane marking|uneven lane line|lane marking|lane line|lane|line|damaged,1
+50,야간 식별 어려운 차선,L2,야간에 차로 중앙을 못 잡는 차량,L4,lane marking hard to see at night|poor night visibility lane line|lane marking|lane line|lane|line|damaged,1
+51,벗겨진 정지선,L2,정지 위치 지나쳐 서는 차량,L4,worn stop line|peeling stop line paint|stop line|line|stopline|damaged,1
+52,흐릿한 정지선,L2,정지선 못 보고 진입하는 차량,L4,faint stop line|faded stop line|stop line|line|stopline|damaged,1
+53,지워진 정지선,L2,정지 위치 임의로 판단하는 차량,L4,erased stop line|missing stop line marking|stop line|line|stopline|damaged,1
+54,위치 어긋난 정지선,L2,횡단보도 침범해 정차하는 차량,L4,misplaced stop line|stop line in wrong position|stop line|line|stopline|damaged,1
+55,겹쳐 그려진 정지선,L2,정지 위치 혼동하는 차량,L4,overlapping stop line markings|double painted stop line|stop line|line|stopline|damaged,1
+56,마모된 정지선,L2,정지선 인지 늦은 차량,L4,worn stop line marking|eroded stop line|stop line|line|stopline|damaged,1
+57,빗물에 씻겨나간 정지선,L2,우천 시 정지 위치 지나치는 차량,L4,stop line washed away by rain|rain worn stop line|stop line|line|stopline|damaged,1
+58,포장 공사로 끊긴 정지선,L2,정지 기준 못 찾는 차량,L4,stop line interrupted by paving work|stop line cut off by construction|stop line|line|stopline|damaged,1
+59,색 바랜 정지선,L2,야간에 정지선 놓치는 차량,L4,faded stop line|discolored stop line|stop line|line|stopline|damaged,1
+60,반사도료 없는 정지선,L2,야간 정지 위치 오판하는 차량,L4,stop line without reflective paint|non-reflective stop line|stop line|line|stopline|damaged,1
+61,파손된 중앙분리대,L2,중앙선 침범해 반대 차로로 넘어가는 차량,L4,damaged median barrier|broken center divider|median barrier|center divider|median|divider|damaged,1
+62,기울어진 중앙분리대,L2,좁아진 차로 폭에 놀라 급조향하는 차량,L4,tilted median barrier|leaning median strip|median barrier|center divider|median|divider|damaged,1
+63,연결부 이탈된 중앙분리대,L2,틈새로 무단횡단 시도하는 보행자,L4,median barrier with detached joint|disconnected median barrier segment|median barrier|center divider|median|divider|damaged,1
+64,반사판 탈락된 중앙분리대,L2,야간에 분리대 못 보고 근접 주행하는 차량,L4,median barrier missing reflector|median strip reflector detached|median barrier|center divider|median|divider|damaged,1
+65,녹슨 중앙분리대,L2,경계 흐려져 중앙선 넘는 차량,L4,rusted median barrier|corroded center divider|median barrier|center divider|median|divider|damaged,1
+66,금 간 중앙분리대,L2,붕괴 우려로 서행하는 차량,L4,cracked median barrier|fractured median strip|median barrier|center divider|median|divider|damaged,1
+67,고정핀 빠진 중앙분리대,L2,흔들리는 분리대 보고 놀라 감속하는 차량,L4,median barrier missing anchor pin|loose median barrier fastener|median barrier|center divider|median|divider|damaged,1
+68,색 바랜 중앙분리대,L2,야간 시인성 낮아 근접 주행하는 차량,L4,faded median barrier|discolored median strip|median barrier|center divider|median|divider|damaged,1
+69,훼손된 중앙분리대 연결부,L2,끊긴 구간으로 진입 시도하는 보행자,L4,damaged median barrier joint|broken median barrier connector|median barrier|center divider|median|divider|damaged,1
+70,침하로 단차 생긴 중앙분리대,L2,단차에 걸려 흔들리는 차량,L4,median barrier with settlement step|sunken median barrier edge|median barrier|center divider|median|divider|damaged,1
+71,파손된 가드레일,L2,도로 이탈 위험 겪는 차량,L4,damaged guardrail|broken guard rail|guardrail|guard rail|rail|damaged,1
+72,찌그러진 가드레일,L2,충돌 흔적 보고 서행하는 차량,L4,dented guardrail|crumpled guard rail|guardrail|guard rail|rail|damaged,1
+73,연결부 끊어진 가드레일,L2,틈새로 도로 이탈하는 차량,L4,guardrail with broken joint|disconnected guardrail segment|guardrail|guard rail|rail|damaged,1
+74,녹슨 가드레일,L2,강도 저하 우려로 감속하는 차량,L4,rusted guardrail|corroded guard rail|guardrail|guard rail|rail|damaged,1
+75,기울어진 가드레일,L2,방호 기능 의심하며 중앙으로 붙는 차량,L4,tilted guardrail|leaning guard rail|guardrail|guard rail|rail|damaged,1
+76,반사판 탈락된 가드레일,L2,야간에 가드레일 못 보고 근접 주행하는 차량,L4,guardrail missing reflector|guard rail reflector detached|guardrail|guard rail|rail|damaged,1
+77,높이 낮아진 가드레일,L2,전복 위험 겪는 차량,L4,guardrail lowered in height|guard rail with reduced height|guardrail|guard rail|rail|damaged,1
+78,지지대 흔들리는 가드레일,L2,불안정한 구조 보고 감속하는 차량,L4,guardrail with loose support|wobbling guardrail post|guardrail|guard rail|rail|damaged,1
+79,매립부 침하된 가드레일,L2,방호력 상실한 구간 지나는 차량,L4,guardrail with sunken foundation|settled guardrail base|guardrail|guard rail|rail|damaged,1
+80,도색 벗겨진 가드레일,L2,야간 시인성 낮아 근접 주행하는 이륜차,L4,guardrail with peeling paint|faded guard rail coating|guardrail|guard rail|rail|damaged,1
+81,넘어진 가로등,L2,장애물 회피하며 급조향하는 차량,L4,fallen streetlight|toppled street lamp|streetlight|street lamp|lamp|damaged,1
+82,꺼진 가로등,L2,야간 시야 확보 못한 채 서행하는 차량,L4,streetlight off|unlit street lamp|streetlight|street lamp|lamp|damaged,1
+83,점멸하는 가로등,L2,불빛에 놀라 주의 분산되는 운전자,L4,flickering streetlight|blinking street lamp|streetlight|street lamp|lamp|damaged,1
+84,배선 노출된 가로등,L2,감전 위험 피해 우회하는 보행자,L4,streetlight with exposed wiring|street lamp exposed cables|streetlight|street lamp|lamp|damaged,1
+85,기울어진 가로등,L2,낙하 우려로 도로 중앙으로 피하는 보행자,L4,tilted streetlight|leaning street lamp|streetlight|street lamp|lamp|damaged,1
+86,녹슨 가로등 기둥,L2,붕괴 우려로 우회하는 보행자,L4,rusted streetlight pole|corroded lamp post|streetlight|street lamp|lamp|damaged,1
+87,가지에 가려진 가로등,L2,야간 조도 부족 구간을 서행하는 차량,L4,streetlight obscured by branches|tree blocking street lamp|streetlight|street lamp|lamp|damaged,1
+88,조도 약해진 가로등,L2,야간 시야 불량으로 감속하는 차량,L4,dim streetlight|weak streetlamp illumination|streetlight|street lamp|lamp|damaged,1
+89,파손된 가로등 덮개,L2,낙하물 피해 우회하는 보행자,L4,damaged streetlight cover|broken lamp housing|streetlight|street lamp|lamp|damaged,1
+90,기초부 침하된 가로등,L2,붕괴 위험 표시 보고 우회하는 보행자,L4,streetlight with sunken base|settled lamp post foundation|streetlight|street lamp|lamp|damaged,1
+91,깨진 반사경,L2,사각지대 확인 못하고 진입하는 차량,L4,broken convex mirror|cracked road mirror|convex mirror|road mirror|mirror|damaged,1
+92,흐려진 반사경,L2,반대편 차량 못 보고 진입하는 차량,L4,cloudy convex mirror|hazy road mirror|convex mirror|road mirror|mirror|damaged,1
+93,방향 어긋난 반사경,L2,잘못된 각도로 오판하는 운전자,L4,misaligned convex mirror|road mirror facing wrong direction|convex mirror|road mirror|mirror|damaged,1
+94,녹슨 반사경 프레임,L2,반사경 신뢰 못하고 서행 진입하는 차량,L4,rusted mirror frame|corroded convex mirror frame|convex mirror|road mirror|mirror|damaged,1
+95,먼지로 뒤덮인 반사경,L2,반사 상 흐려 오판하는 운전자,L4,dust covered convex mirror|dirty road mirror|convex mirror|road mirror|mirror|damaged,1
+96,금 간 반사경,L2,왜곡된 상 보고 오판하는 운전자,L4,cracked convex mirror|fractured road mirror|convex mirror|road mirror|mirror|damaged,1
+97,기울어진 반사경,L2,사각지대 여전히 못 보는 차량,L4,tilted convex mirror|leaning road mirror|convex mirror|road mirror|mirror|damaged,1
+98,가지에 가려진 반사경,L2,반사경 무용해져 서행 진입하는 차량,L4,convex mirror obscured by branches|tree blocking road mirror|convex mirror|road mirror|mirror|damaged,1
+99,반사면 벗겨진 반사경,L2,상이 흐려 확인 못하는 운전자,L4,convex mirror with peeling reflective surface|worn mirror coating|convex mirror|road mirror|mirror|damaged,1
+100,고정 풀린 반사경,L2,흔들리는 상으로 오판하는 운전자,L4,loose convex mirror mount|unstable road mirror fixture|convex mirror|road mirror|mirror|damaged,1
+101,넘어진 시선유도봉,L2,커브 경로 오판하는 차량,L4,fallen delineator post|toppled guide post|delineator post|guide post|post|delineator|damaged,1
+102,파손된 시선유도봉,L2,도로 경계 못 찾는 차량,L4,damaged delineator post|broken guide post|delineator post|guide post|post|delineator|damaged,1
+103,반사판 탈락된 시선유도봉,L2,야간 커브 진입 경로 이탈하는 차량,L4,delineator post missing reflector|guide post reflector detached|delineator post|guide post|post|delineator|damaged,1
+104,색 바랜 시선유도봉,L2,경로 인지 늦은 차량,L4,faded delineator post|discolored guide post|delineator post|guide post|post|delineator|damaged,1
+105,간격 불규칙한 시선유도봉,L2,커브 곡률 오판하는 차량,L4,irregularly spaced delineator posts|uneven guide post spacing|delineator post|guide post|post|delineator|damaged,1
+106,휘어진 시선유도봉,L2,경로 착각하고 진입하는 차량,L4,bent delineator post|warped guide post|delineator post|guide post|post|delineator|damaged,1
+107,매립부 헐거워진 시선유도봉,L2,흔들리는 유도봉 보고 놀라는 운전자,L4,delineator post with loose base|unstable guide post foundation|delineator post|guide post|post|delineator|damaged,1
+108,야간 식별 어려운 시선유도봉,L2,야간 커브 진입 속도 못 줄이는 차량,L4,delineator post hard to see at night|poor night visibility guide post|delineator post|guide post|post|delineator|damaged,1
+109,일부 결번된 시선유도봉,L2,경로 연속성 착각하는 차량,L4,missing delineator post in sequence|gap in guide post line|delineator post|guide post|post|delineator|damaged,1
+110,기울어진 시선유도봉,L2,유도 방향 오판하는 차량,L4,tilted delineator post|leaning guide post|delineator post|guide post|post|delineator|damaged,1
+111,훼손된 보행자 방호울타리,L2,틈새로 무단횡단하는 보행자,L4,damaged pedestrian fence|broken pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+112,넘어진 보행자 방호울타리,L2,차도로 진입하는 보행자,L4,fallen pedestrian fence|toppled pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+113,연결부 끊어진 보행자 방호울타리,L2,끊긴 구간으로 횡단하는 보행자,L4,pedestrian fence with broken joint|disconnected pedestrian barrier segment|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+114,녹슨 보행자 방호울타리,L2,강도 약화로 기대어 넘어가는 보행자,L4,rusted pedestrian fence|corroded pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+115,높이 낮아진 보행자 방호울타리,L2,쉽게 넘어 차도 진입하는 보행자,L4,pedestrian fence lowered in height|reduced height pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+116,철거되다 만 보행자 방호울타리,L2,개방부로 무단횡단하는 보행자,L4,partially removed pedestrian fence|half dismantled pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+117,기둥 흔들리는 보행자 방호울타리,L2,불안정 구조 넘어가는 보행자,L4,pedestrian fence with wobbling post|unstable pedestrian barrier support|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+118,도색 벗겨진 보행자 방호울타리,L2,야간 시인성 낮아 못 보는 차량,L4,pedestrian fence with peeling paint|faded pedestrian barrier coating|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+119,파손된 보행자 방호울타리 연결부,L2,틈새로 진입하는 보행자,L4,damaged pedestrian fence joint|broken pedestrian barrier connector|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+120,구간 일부 빠진 보행자 방호울타리,L2,빈 구간으로 무단횡단하는 보행자,L4,gap in pedestrian fence|missing section of pedestrian barrier|pedestrian fence|pedestrian barrier|fence|barrier|damaged,1
+121,마모된 과속방지턱,L2,감속 효과 없이 통과하는 차량,L4,worn speed bump|eroded speed hump|speed bump|speed hump|bump|hump|damaged,1
+122,색 바랜 과속방지턱,L2,인지 늦어 급제동하는 차량,L4,faded speed bump|discolored speed hump|speed bump|speed hump|bump|hump|damaged,1
+123,높이 낮아진 과속방지턱,L2,감속 없이 통과하는 차량,L4,speed bump worn low|flattened speed hump|speed bump|speed hump|bump|hump|damaged,1
+124,갈라진 과속방지턱,L2,충격 피하려 급조향하는 차량,L4,cracked speed bump|fractured speed hump|speed bump|speed hump|bump|hump|damaged,1
+125,반사도료 벗겨진 과속방지턱,L2,야간에 인지 못하고 통과하는 차량,L4,speed bump with worn reflective paint|non-reflective speed hump|speed bump|speed hump|bump|hump|damaged,1
+126,경고 표지 없는 과속방지턱,L2,예상 못하고 충격받는 차량,L4,speed bump without warning sign|unmarked speed hump|speed bump|speed hump|bump|hump|damaged,1
+127,포장 들뜬 과속방지턱,L2,돌출부에 놀라 급제동하는 차량,L4,speed bump with lifted pavement|buckled speed hump surface|speed bump|speed hump|bump|hump|damaged,1
+128,비대칭으로 침하된 과속방지턱,L2,좌우 흔들리며 통과하는 차량,L4,unevenly sunken speed bump|asymmetrically settled speed hump|speed bump|speed hump|bump|hump|damaged,1
+129,야간 식별 어려운 과속방지턱,L2,야간에 충격받고 급제동하는 차량,L4,speed bump hard to see at night|poor night visibility speed hump|speed bump|speed hump|bump|hump|damaged,1
+130,일부 파손된 과속방지턱,L2,파손부 피해 급조향하는 이륜차,L4,partially damaged speed bump|broken section of speed hump|speed bump|speed hump|bump|hump|damaged,1
+131,침하된 맨홀 뚜껑,L2,충격 피해 급조향하는 차량,L4,sunken manhole cover|settled manhole cover|manhole cover|manhole|cover|damaged,1
+132,헐거워진 맨홀 뚜껑,L2,소음에 놀라는 운전자,L4,loose manhole cover|unstable manhole cover|manhole cover|manhole|cover|damaged,1
+133,깨진 맨홀 뚜껑,L2,파편 피해 급조향하는 이륜차,L4,broken manhole cover|cracked manhole cover|manhole cover|manhole|cover|damaged,1
+134,돌출된 맨홀 뚜껑,L2,충격 피해 급제동하는 차량,L4,protruding manhole cover|raised manhole cover|manhole cover|manhole|cover|damaged,1
+135,미끄러운 맨홀 뚜껑,L2,제동 시 미끄러지는 이륜차,L4,slippery manhole cover|manhole cover|manhole|cover|damaged,1
+136,고정 안 된 맨홀 뚜껑,L2,흔들림에 놀라 급조향하는 차량,L4,unsecured manhole cover|unfastened manhole cover|manhole cover|manhole|cover|damaged,1
+137,녹슨 맨홀 뚜껑,L2,강도 저하 우려로 피해가는 이륜차,L4,rusted manhole cover|corroded manhole cover|manhole cover|manhole|cover|damaged,1
+138,빗물에 잠긴 맨홀 뚜껑,L2,위치 못 보고 통과하는 차량,L4,manhole cover submerged in rainwater|flooded manhole cover|manhole cover|manhole|cover|damaged,1
+139,경고 표시 없는 맨홀 뚜껑,L2,예상 못하고 충격받는 이륜차,L4,manhole cover without warning marking|unmarked manhole cover|manhole cover|manhole|cover|damaged,1
+140,소음 나는 헐거운 맨홀 뚜껑,L2,소음에 놀라 급제동하는 차량,L4,noisy loose manhole cover|rattling manhole cover|manhole cover|manhole|cover|damaged,1
+141,주의 표지판 없는 포트홀,L2,예상 못하고 급제동하는 차량,L4,pothole without warning sign|unmarked pothole|road surface|pavement|road|surface|damaged,1
+142,방치된 노면 균열,L2,균열 피해 급조향하는 이륜차,L4,neglected road crack|untreated pavement crack|road surface|pavement|road|surface|damaged,1
+143,배수 불량 노면 침수,L2,수막현상으로 미끄러지는 차량,L4,flooded road due to poor drainage|waterlogged pavement|road surface|pavement|road|surface|damaged,1
+144,결빙 경고 없는 그늘진 커브,L2,빙판에 미끄러지는 차량,L4,shaded curve without icy road warning|unmarked icy curve|road surface|pavement|road|surface|damaged,1
+145,요철 심한 이음부,L2,충격에 흔들리는 차량,L4,severe bump at pavement joint|rough road surface joint|road surface|pavement|road|surface|damaged,1
+146,융기된 아스팔트 이음매,L2,돌출부에 걸려 급제동하는 차량,L4,heaved asphalt joint|buckled pavement seam|road surface|pavement|road|surface|damaged,1
+147,미끄럼방지 코팅 벗겨진 경사로,L2,제동거리 늘어나는 차량,L4,ramp with worn anti-slip coating|slippery ramp surface|road surface|pavement|road|surface|damaged,1
+148,땜질 자국 많은 노면,L2,불규칙 충격에 흔들리는 차량,L4,road surface with many patch marks|heavily patched pavement|road surface|pavement|road|surface|damaged,1
+149,침하로 단차 생긴 노면,L2,단차에 걸려 급조향하는 차량,L4,road surface with settlement step|sunken pavement edge|road surface|pavement|road|surface|damaged,1
+150,갓길과 단차 생긴 노면 경계,L2,갓길 진입 시 전복 위험 겪는 차량,L4,road edge with step to shoulder|uneven shoulder boundary|road surface|pavement|road|surface|damaged,1
+151,함몰된 배수로 덮개,L2,충격 피해 급조향하는 이륜차,L4,sunken drain cover|depressed gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+152,깨진 배수로 덮개,L2,파편 피해 우회하는 차량,L4,broken drain cover|cracked gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+153,헐거워진 배수로 덮개,L2,배수로 덮개 소음에 놀라는 운전자,L4,loose drain cover|unstable gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+154,녹슨 배수로 덮개,L2,강도 저하 우려로 피해가는 차량,L4,rusted drain cover|corroded gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+155,막힌 배수구 덮개,L2,침수 피해 서행하는 차량,L4,clogged drain cover|blocked gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+156,돌출된 배수로 덮개,L2,충격 피해 급제동하는 이륜차,L4,protruding drain cover|raised gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+157,경고 표시 없는 배수로 덮개,L2,배수로 덮개 충격에 놀라는 이륜차,L4,drain cover without warning marking|unmarked gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+158,빗물에 잠긴 배수로 덮개,L2,덮개 위치 안 보이고 지나가는 차량,L4,drain cover submerged in rainwater|flooded gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+159,고정 나사 빠진 배수로 덮개,L2,흔들림에 놀라 급조향하는 이륜차,L4,drain cover missing fixing screw|unfastened gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+160,갈라진 배수로 덮개,L2,파손부 피해 우회하는 차량,L4,cracked drain cover|fractured gutter cover|drain cover|gutter cover|drain|grate|damaged,1
+161,파손된 육교 계단,L2,발 헛디뎌 넘어지는 보행자,L4,damaged overpass stairs|broken footbridge steps|pedestrian overpass|underpass|overpass|damaged,1
+162,미끄러운 지하도 계단,L2,미끄러져 넘어지는 보행자,L4,slippery underpass stairs|pedestrian overpass|underpass|overpass|damaged,1
+163,난간 헐거워진 육교,L2,난간 붙잡다 놀라는 보행자,L4,overpass with loose handrail|footbridge with unstable railing|pedestrian overpass|underpass|overpass|damaged,1
+164,조명 꺼진 지하도 입구,L2,진입 주저하며 차도로 우회하는 보행자,L4,unlit underpass entrance|dark underpass entry|pedestrian overpass|underpass|overpass|damaged,1
+165,손잡이 부러진 지하도 계단,L2,지지대 없이 헛디디는 보행자,L4,underpass stairs with broken handrail|pedestrian overpass|underpass|overpass|damaged,1
+166,단차 어긋난 육교 계단,L2,보폭 착각해 헛디디는 보행자,L4,overpass stairs with uneven steps|misaligned footbridge steps|pedestrian overpass|underpass|overpass|damaged,1
+167,배수 불량 지하도 입구,L2,침수 피해 차도로 우회하는 보행자,L4,underpass entrance with poor drainage|flooded underpass entry|pedestrian overpass|underpass|overpass|damaged,1
+168,결빙 방치된 육교 계단,L2,빙판진 육교 계단에서 넘어지는 보행자,L4,overpass stairs left icy|untreated icy footbridge steps|pedestrian overpass|underpass|overpass|damaged,1
+169,바닥재 들뜬 지하도 통로,L2,들뜬 바닥재에 걸려 넘어지는 보행자,L4,underpass passage with lifted flooring|loose underpass floor tiles|pedestrian overpass|underpass|overpass|damaged,1
+170,난간 녹슨 육교,L2,붙잡기 꺼려 중앙으로 걷는 보행자,L4,overpass with rusted railing|footbridge with corroded handrail|pedestrian overpass|underpass|overpass|damaged,1
+171,헐거워진 볼라드,L2,부딪혀 넘어지는 보행자,L4,loose bollard|unstable bollard|bollard|damaged,1
+172,쓰러진 볼라드,L2,차단 안 돼 넘어가는 차량,L4,fallen bollard|toppled bollard|bollard|damaged,1
+173,반사띠 벗겨진 볼라드,L2,야간에 충돌하는 차량,L4,bollard with peeling reflective tape|worn bollard reflector|bollard|damaged,1
+174,녹슨 볼라드,L2,강도 저하로 기능 못하는 차단 구간,L4,rusted bollard|corroded bollard|bollard|damaged,1
+175,일부 결번된 볼라드,L2,빈틈으로 차도 진입하는 차량,L4,missing bollard in sequence|gap in bollard line|bollard|damaged,1
+176,기울어진 볼라드,L2,기울어진 볼라드에 부딪혀 넘어지는 보행자,L4,tilted bollard|leaning bollard|bollard|damaged,1
+177,야간 식별 어려운 볼라드,L2,야간에 충돌하는 이륜차,L4,bollard hard to see at night|poor night visibility bollard|bollard|damaged,1
+178,파손된 볼라드 상부,L2,날카로운 파편에 다치는 보행자,L4,bollard with damaged top|broken bollard head|bollard|damaged,1
+179,고정판 깨진 볼라드,L2,흔들리다 쓰러지는 볼라드,L4,bollard with cracked base plate|broken bollard mounting plate|bollard|damaged,1
+180,간격 불규칙한 볼라드,L2,틈새로 차도 진입하는 차량,L4,irregularly spaced bollards|uneven bollard spacing|bollard|damaged,1
+181,오작동하는 과속단속 카메라,L2,단속 안 될 것으로 오판해 과속하는 차량,L4,malfunctioning speed camera|faulty enforcement camera|traffic camera|CCTV|camera|cctv|damaged,1
+182,렌즈 파손된 CCTV,L2,감시 사각지대 인지하고 위반하는 차량,L4,CCTV with broken lens|damaged CCTV camera lens|traffic camera|CCTV|camera|cctv|damaged,1
+183,방향 틀어진 교통 카메라,L2,단속 회피 가능하다 오판하는 차량,L4,misaligned traffic camera|traffic camera facing wrong direction|traffic camera|CCTV|camera|cctv|damaged,1
+184,전원 꺼진 CCTV,L2,감시 없다 오판하고 위반하는 차량,L4,CCTV powered off|CCTV camera without power|traffic camera|CCTV|camera|cctv|damaged,1
+185,가지에 가려진 단속 카메라,L2,단속 못 볼 것으로 오판하는 차량,L4,enforcement camera obscured by branches|tree blocking traffic camera|traffic camera|CCTV|camera|cctv|damaged,1
+186,녹화 중단된 CCTV,L2,증거 없다 오판하고 위반하는 차량,L4,CCTV recording stopped|non-recording CCTV camera|traffic camera|CCTV|camera|cctv|damaged,1
+187,각도 어긋난 신호위반 카메라,L2,단속 사각 노려 신호위반하는 차량,L4,misaligned red light camera|wrong angle traffic signal camera|traffic camera|CCTV|camera|cctv|damaged,1
+188,빗물 맺힌 CCTV 렌즈,L2,단속 불가 오판하고 과속하는 차량,L4,CCTV lens covered with raindrops|rain obscured camera lens|traffic camera|CCTV|camera|cctv|damaged,1
+189,배선 노출된 교통 카메라,L2,오작동 우려로 무시하는 차량,L4,traffic camera with exposed wiring|traffic camera exposed cables|traffic camera|CCTV|camera|cctv|damaged,1
+190,작동 표시등 꺼진 단속 카메라,L2,미작동으로 오판하고 위반하는 차량,L4,enforcement camera with indicator light off|traffic camera status light off|traffic camera|CCTV|camera|cctv|damaged,1
+191,꺼진 터널 조명,L2,시야 확보 못해 서행하는 차량,L4,tunnel lighting off|unlit tunnel lights|tunnel|damaged,1
+192,점멸하는 터널 조명,L2,눈부심에 시야 방해받는 운전자,L4,flickering tunnel lights|blinking tunnel lighting|tunnel|damaged,1
+193,그을린 터널 벽면,L2,화재 흔적 보고 불안해하는 운전자,L4,scorched tunnel wall|soot stained tunnel wall|tunnel|damaged,1
+194,배기 불량 터널 구간,L2,매연으로 시야 흐려지는 운전자,L4,tunnel section with poor ventilation|inadequate tunnel exhaust|tunnel|damaged,1
+195,누수 흔적 있는 터널 천장,L2,낙수 피해 급조향하는 차량,L4,tunnel ceiling with water leakage marks|leaking tunnel ceiling|tunnel|damaged,1
+196,조도 약해진 터널 진입부,L2,명암 적응 못해 서행하는 차량,L4,dim tunnel entrance lighting|weak illumination at tunnel entrance|tunnel|damaged,1
+197,경고등 고장난 터널 입구,L2,위험 인지 못하고 진입하는 차량,L4,tunnel entrance with broken warning light|faulty tunnel entrance beacon|tunnel|damaged,1
+198,빗물 고인 터널 바닥,L2,터널 바닥 수막현상에 미끄러지는 차량,L4,tunnel floor with standing water|flooded tunnel floor|tunnel|damaged,1
+199,반사판 오염된 터널 벽,L2,경계 인지 못하고 근접 주행하는 차량,L4,tunnel wall with dirty reflective panel|soiled tunnel reflector panel|tunnel|damaged,1
+200,환기팬 정지된 터널 구간,L2,매연 축적으로 시야 저하되는 운전자,L4,tunnel section with stopped ventilation fan|tunnel with non-operating exhaust fan|tunnel|damaged,1
+201,표시 없는 공사 구간 진입로,L3,예고 없이 감속 못하고 진입하는 차량,L4,unmarked construction zone entrance|work zone without warning sign|construction warning sign|work zone sign|sign|warning,1
+202,야간 반사판 탈락된 공사 안내판,L3,야간에 안내판 못 보고 진입하는 차량,L4,construction sign missing night reflector|warning sign reflector detached|construction warning sign|work zone sign|sign|warning,1
+203,쓰러진 공사 경고 표지판,L3,경고 인지 못하고 진입하는 차량,L4,fallen construction warning sign|toppled work zone sign|construction warning sign|work zone sign|sign|warning,1
+204,방향 오표기된 우회 안내판,L3,잘못된 경로로 진입하는 차량,L4,construction sign with wrong direction|mislabeled work zone sign|construction warning sign|work zone sign|sign|warning,1
+205,바람에 날아간 임시 안내 표지,L3,안내 없이 혼란스러워하는 차량,L4,temporary sign blown away|wind displaced warning sign|construction warning sign|work zone sign|sign|warning,1
+206,회수 안 된 철거 대상 공사표지판,L3,이미 끝난 공사로 오인하는 차량,L4,leftover construction sign not removed|outdated work zone sign|construction warning sign|work zone sign|sign|warning,1
+207,낙서로 훼손된 공사 안내판,L3,안내 내용 오독하는 차량,L4,construction sign vandalized with graffiti|graffiti damaged warning sign|construction warning sign|work zone sign|sign|warning,1
+208,빛바래 글자 안 보이는 공사표지판,L3,안내 내용 못 읽고 진입하는 차량,L4,faded illegible construction sign|worn text on warning sign|construction warning sign|work zone sign|sign|warning,1
+209,고정 풀려 기울어진 공사 안내판,L3,안내판 시인성 저하로 늦게 반응하는 차량,L4,loose tilted construction sign|unstable warning sign mount|construction warning sign|work zone sign|sign|warning,1
+210,파손된 채 방치된 공사 예고판,L3,예고 기능 상실로 급정지하는 차량,L4,neglected damaged work zone sign|abandoned broken warning sign|construction warning sign|work zone sign|sign|warning,1
+211,쓰러진 라바콘 열,L3,경계 사라진 공사 구간,L1,fallen row of traffic cones|toppled safety cones|traffic cone|safety cone|cone,1
+212,반사띠 벗겨진 라바콘,L3,야간 식별 안 되는 경계 구간,L1,traffic cone with peeling reflective tape|worn cone reflector|traffic cone|safety cone|cone,1
+213,간격 벌어진 라바콘 대열,L3,경계 불연속한 공사 구간,L1,irregularly spaced traffic cones|gapped cone line|traffic cone|safety cone|cone,1
+214,바람에 흩어진 라바콘,L3,경계 흐트러진 공사 구간,L1,traffic cones scattered by wind|wind blown safety cones|traffic cone|safety cone|cone,1
+215,야간 미식별 라바콘,L3,야간 경계 불명확한 구간,L1,traffic cone hard to see at night|poor night visibility cone|traffic cone|safety cone|cone,1
+216,색 바랜 안전 고깔,L3,시인성 낮은 경계 구간,L1,faded safety cone|discolored traffic cone|traffic cone|safety cone|cone,1
+217,무게추 없는 흔들리는 라바콘,L3,불안정한 경계 표시 구간,L1,unweighted wobbling traffic cone|unstable safety cone|traffic cone|safety cone|cone,1
+218,차선 밖으로 밀려난 라바콘,L3,경계 위치 어긋난 구간,L1,traffic cone pushed out of line|displaced safety cone|traffic cone|safety cone|cone,1
+219,일부 결번된 라바콘 라인,L3,틈새 있는 경계 구간,L1,missing cone in the line|gap in traffic cone row|traffic cone|safety cone|cone,1
+220,파손된 안전 고깔 상단,L3,식별 어려운 경계 구간,L1,traffic cone with broken tip|damaged safety cone top|traffic cone|safety cone|cone,1
+221,고정 안 된 이동식 안전펜스,L3,펜스 틈으로 무단진입하는 보행자,L4,unsecured mobile safety fence|unanchored temporary fence|temporary fence|temporary barrier|fence|barrier,1
+222,연결부 벌어진 임시 방호벽,L3,틈새로 차도 진입하는 보행자,L4,temporary barrier with gapped joint|disconnected barrier segment|temporary fence|temporary barrier|fence|barrier,1
+223,바람에 넘어진 공사 펜스,L3,개방 구역으로 진입하는 보행자,L4,construction fence knocked down by wind|wind toppled work zone fence|temporary fence|temporary barrier|fence|barrier,1
+224,틈이 생긴 임시 차단벽,L3,틈새로 통과하는 보행자,L4,temporary barrier with gap|opening in construction barrier|temporary fence|temporary barrier|fence|barrier,1
+225,바퀴 고정 안 된 이동식 펜스,L3,밀려서 생긴 틈으로 통과하는 보행자,L4,mobile fence with unlocked wheels|unstable rolling barrier|temporary fence|temporary barrier|fence|barrier,1
+226,찢어진 임시 방음막,L3,개구부로 무단진입하는 보행자,L4,torn temporary sound barrier|ripped construction screen|temporary fence|temporary barrier|fence|barrier,1
+227,기울어진 PE 물통 방호벽,L3,넘어간 방호벽 넘는 보행자,L4,tilted water-filled barrier|leaning plastic barrier|temporary fence|temporary barrier|fence|barrier,1
+228,연결핀 빠진 임시 가드레일,L3,분리된 구간으로 진입하는 차량,L4,temporary guardrail missing connector pin|disconnected temporary rail|temporary fence|temporary barrier|fence|barrier,1
+229,높이 낮은 임시 안전펜스,L3,쉽게 넘어 진입하는 보행자,L4,low height temporary safety fence|insufficient barrier height|temporary fence|temporary barrier|fence|barrier,1
+230,색이 바래 눈에 안 띄는 임시펜스,L3,존재 인지 못하고 부딪히는 보행자,L4,faded hard to notice temporary fence|discolored construction barrier|temporary fence|temporary barrier|fence|barrier,1
+231,들뜬 복공판 이음매,L3,복공판 이음매 충격 피해 급조향하는 차량,L4,lifted steel plate joint|raised road plate seam|steel road plate|temporary steel plate|plate,1
+232,미끄러운 철판 노면,L3,철판 노면에서 제동 미끄러지는 이륜차,L4,slippery steel road plate|slick temporary plate surface|steel road plate|temporary steel plate|plate,1
+233,소음 나는 헐거운 복공판,L3,복공판 소음에 놀라는 운전자,L4,noisy loose steel plate|rattling road plate|steel road plate|temporary steel plate|plate,1
+234,단차 생긴 복공판 경계,L3,이음매 단차에 덜컹이며 흔들리는 차량,L4,steel plate with height step|uneven road plate edge|steel road plate|temporary steel plate|plate,1
+235,고정 볼트 빠진 복공판,L3,들썩임에 놀라 급제동하는 차량,L4,steel plate missing bolt|unsecured road plate|steel road plate|temporary steel plate|plate,1
+236,비 오면 미끄러운 철판 덮개,L3,우천 시 미끄러지는 이륜차,L4,steel plate slippery when wet|rain slick metal cover|steel road plate|temporary steel plate|plate,1
+237,갈라진 복공판 모서리,L3,모서리 피해 급조향하는 이륜차,L4,cracked steel plate corner|fractured road plate edge|steel road plate|temporary steel plate|plate,1
+238,녹슨 철판 노면 이음부,L3,마찰력 저하로 미끄러지는 차량,L4,rusted steel plate joint|corroded road plate seam|steel road plate|temporary steel plate|plate,1
+239,불규칙하게 겹친 복공판,L3,요철에 흔들리는 차량,L4,unevenly overlapped steel plates|misaligned road plates|steel road plate|temporary steel plate|plate,1
+240,가장자리 마감 안 된 철판 덮개,L3,걸림에 놀라 급제동하는 이륜차,L4,steel plate with unfinished edge|rough edged road plate|steel road plate|temporary steel plate|plate,1
+241,공사 구간 임시 차선 표시 혼동,L3,차로 착각하고 진입하는 차량,L4,confusing temporary lane marking in work zone|misleading construction lane line|temporary lane marking|temporary guide line|lane|line,1
+242,반사도료 없는 임시 유도선,L3,야간 유도선 놓치는 차량,L4,temporary guide line without reflective paint|non-reflective temporary lane marking|temporary lane marking|temporary guide line|lane|line,1
+243,겹쳐진 임시 차선 표시,L3,차로 위치 혼동하는 차량,L4,overlapping temporary lane markings|double painted construction lane line|temporary lane marking|temporary guide line|lane|line,1
+244,지워지다 만 임시 차선,L3,기존 차선과 혼동하는 차량,L4,partially erased temporary lane marking|half faded construction lane line|temporary lane marking|temporary guide line|lane|line,1
+245,공사 전후 차선 연결 불일치,L3,급차선변경하는 차량,L4,misaligned lane connection before and after work zone|discontinuous construction lane marking|temporary lane marking|temporary guide line|lane|line,1
+246,야간 식별 어려운 임시 유도선,L3,야간에 경로 이탈하는 차량,L4,temporary guide line hard to see at night|poor night visibility lane marking|temporary lane marking|temporary guide line|lane|line,1
+247,빗물에 씻긴 임시 차선 테이프,L3,우천 시 차로 놓치는 차량,L4,temporary lane tape washed away by rain|rain worn construction lane marking|temporary lane marking|temporary guide line|lane|line,1
+248,방향 혼란 유발하는 임시 유도선,L3,반대 차로로 진입하는 차량,L4,confusing directional temporary guide line|misleading temporary lane arrow|temporary lane marking|temporary guide line|lane|line,1
+249,접착 불량으로 벗겨진 임시 차선,L3,차선 오인하고 주행하는 차량,L4,peeling temporary lane tape|poorly adhered construction lane marking|temporary lane marking|temporary guide line|lane|line,1
+250,좁아진 임시 차로 폭 표시 부족,L3,인접 차량과 근접 주행하는 차량,L4,narrowed temporary lane without width marking|unmarked lane narrowing in work zone|temporary lane marking|temporary guide line|lane|line,1
+251,메우지 않은 굴착 구멍,L3,함몰 위험 있는 노면,L1,unfilled excavation hole|open dig site|excavation site|buried utility work|excavation|trench,1
+252,안전펜스 없는 개착 구간,L3,경계 없는 굴착 구간,L1,open-cut excavation without safety fence|unfenced trench site|excavation site|buried utility work|excavation|trench,1
+253,덮개 없이 노출된 매설 배관,L3,돌출물 있는 노면,L1,exposed buried pipe without cover|uncovered utility pipe|excavation site|buried utility work|excavation|trench,1
+254,방치된 굴착 토사더미,L3,폭 좁아진 주행 구간,L1,neglected excavation soil pile|abandoned dirt mound from digging|excavation site|buried utility work|excavation|trench,1
+255,표시 없는 임시 되메움 구간,L3,단차 있는 노면,L1,unmarked temporary backfill area|unsigned refilled excavation|excavation site|buried utility work|excavation|trench,1
+256,침하 우려 있는 되메움 노면,L3,불안정한 노면 구간,L1,backfilled road surface prone to sinking|unstable refilled pavement|excavation site|buried utility work|excavation|trench,1
+257,굴착 경계 표시 없는 구간,L3,경계 불명확한 노면,L1,excavation area without boundary marking|unmarked dig site edge|excavation site|buried utility work|excavation|trench,1
+258,흙더미 남은 매설 공사 현장,L3,미끄러운 흙 노출 구간,L1,dirt pile left at utility work site|leftover soil at burial construction site|excavation site|buried utility work|excavation|trench,1
+259,정리 안 된 배관 자재,L3,장애물 있는 노면 구간,L1,uncleared pipe materials|leftover piping equipment|excavation site|buried utility work|excavation|trench,1
+260,지반 다짐 부족한 매설 구간,L3,침하 우려 있는 노면,L1,poorly compacted buried utility section|under-compacted excavation backfill|excavation site|buried utility work|excavation|trench,1
+261,차선 침범한 공사 자재더미,L3,자재 피해 급차선변경하는 차량,L4,construction material pile encroaching on lane|materials blocking traffic lane|construction material pile|stacked materials|materials|debris,1
+262,비닐 벗겨진 방치 자재,L3,낙하물 피해 급조향하는 차량,L4,neglected materials with torn covering|uncovered abandoned construction supplies|construction material pile|stacked materials|materials|debris,1
+263,고정 안 된 적치 파이프,L3,굴러오는 파이프 피하는 차량,L4,unsecured stacked pipes|unfastened piled pipes|construction material pile|stacked materials|materials|debris,1
+264,야간 반사물 없는 자재더미,L3,야간에 충돌 위험 겪는 차량,L4,material pile without night reflector|unmarked debris pile at night|construction material pile|stacked materials|materials|debris,1
+265,인도 점유한 건축 자재,L3,차도로 우회하는 보행자,L4,building materials occupying sidewalk|construction supplies blocking footpath|construction material pile|stacked materials|materials|debris,1
+266,바람에 날릴 위험 있는 경량 자재,L3,날아온 자재 피하는 차량,L4,lightweight materials at risk of blowing away|unsecured light construction debris|construction material pile|stacked materials|materials|debris,1
+267,쌓다 만 벽돌더미,L3,붕괴 위험 피해 우회하는 보행자,L4,partially stacked brick pile|unfinished brick stack|construction material pile|stacked materials|materials|debris,1
+268,방치된 철근 다발,L3,돌출 자재 피해 급조향하는 차량,L4,neglected bundle of rebar|abandoned steel reinforcement bars|construction material pile|stacked materials|materials|debris,1
+269,좁은 갓길 점유한 자재차,L3,근접 추월하는 차량,L4,material truck occupying narrow shoulder|supply vehicle blocking road shoulder|construction material pile|stacked materials|materials|debris,1
+270,정리 안 된 폐자재 더미,L3,폐자재 더미 피해 급제동하는 차량,L4,uncleared construction waste pile|leftover demolition debris|construction material pile|stacked materials|materials|debris,1
+271,꺼진 공사 구간 점멸등,L3,조도 낮은 야간 구간,L5,work zone flashing light off|unlit construction beacon|temporary work light|warning beacon|light|beacon,1
+272,배터리 방전된 임시 경광등,L3,경고등 없는 어두운 구간,L5,dead battery temporary warning light|depleted construction beacon|temporary work light|warning beacon|light|beacon,1
+273,방향 잘못된 야간 유도등,L3,시야 혼란 있는 어두운 구간,L5,misdirected night guide light|wrongly aimed work zone light|temporary work light|warning beacon|light|beacon,1
+274,파손된 이동식 조명탑,L3,조명 부족한 구간,L5,damaged mobile light tower|broken portable work light|temporary work light|warning beacon|light|beacon,1
+275,점멸 주기 불규칙한 경고등,L3,불안정 조명 있는 야간 구간,L5,irregularly flashing warning light|inconsistent beacon flash rate|temporary work light|warning beacon|light|beacon,1
+276,가려진 공사 구간 경광등,L3,경고 시인성 낮은 야간 구간,L5,obscured construction warning light|blocked work zone beacon|temporary work light|warning beacon|light|beacon,1
+277,전선 끊어진 임시 조명,L3,무조명 야간 구간,L5,temporary light with severed wire|disconnected work zone lamp|temporary work light|warning beacon|light|beacon,1
+278,흐려진 야간 반사 표지등,L3,표지 인지 어려운 야간 구간,L5,dimmed night reflective marker light|faded construction reflector light|temporary work light|warning beacon|light|beacon,1
+279,일부 꺼진 공사 구간 조명열,L3,부분적으로 어두운 구간,L5,partially unlit work zone light row|some lights off in construction lighting line|temporary work light|warning beacon|light|beacon,1
+280,젖어서 오작동하는 임시 경광등,L3,우천 시 조도 낮은 구간,L5,malfunctioning wet warning beacon|water damaged construction light|temporary work light|warning beacon|light|beacon,1
+281,표시 애매한 우회로 안내판,L3,경로 착각하고 직진하는 차량,L4,ambiguous detour sign|unclear detour guidance|detour sign|detour guidance|detour,1
+282,연속성 끊긴 우회 안내 표지,L3,우회로 이탈하는 차량,L4,discontinuous detour signage|detour sign sequence broken|detour sign|detour guidance|detour,1
+283,철거 안 된 옛 우회 안내판,L3,종료된 우회 경로로 잘못 진행하는 차량,L4,outdated detour sign not removed|leftover old detour marker|detour sign|detour guidance|detour,1
+284,방향 화살표 마모된 우회 표지,L3,방향 오판하고 진행하는 차량,L4,detour sign with worn direction arrow|faded detour arrow marking|detour sign|detour guidance|detour,1
+285,조명 없는 야간 우회로 입구,L3,입구 놓치고 직진하는 차량,L4,unlit night detour entrance|dark detour route entry|detour sign|detour guidance|detour,1
+286,막다른 길로 이어지는 잘못된 우회 안내,L3,후진하며 역주행하는 차량,L4,detour sign leading to dead end|incorrect detour route guidance|detour sign|detour guidance|detour,1
+287,겹쳐진 신구 우회 안내판,L3,경로 혼동하는 차량,L4,overlapping old and new detour signs|conflicting detour signage|detour sign|detour guidance|detour,1
+288,크기 작아 안 보이는 우회 표지,L3,표지 놓치고 직진하는 차량,L4,undersized hard to see detour sign|small illegible detour marker|detour sign|detour guidance|detour,1
+289,일부 구간 안내 누락된 우회로,L3,경로 중간에 헤매는 차량,L4,detour route missing signage in section|incomplete detour guidance|detour sign|detour guidance|detour,1
+290,바람에 돌아간 우회 안내판,L3,잘못된 방향으로 진행하는 차량,L4,detour sign turned by wind|misaligned rotated detour marker|detour sign|detour guidance|detour,1
+291,공사 여파로 침하된 노면,L3,공사 여파로 침하되어 단차 생긴 노면,L1,road surface sunken from construction|pavement settlement due to work|sunken road from construction|settled pavement|subsidence|sinkhole,1
+292,되메움 부실로 꺼진 도로,L3,함몰된 노면,L1,road caved in from poor backfill|sunken pavement from inadequate refill|sunken road from construction|settled pavement|subsidence|sinkhole,1
+293,지하 매설물 공사 후 생긴 단차,L3,매설공사 후 생긴 단차 노면,L1,pavement step from underground utility work|height difference after burial construction|sunken road from construction|settled pavement|subsidence|sinkhole,1
+294,장비 하중으로 눌린 임시 노면,L3,눌려 변형된 노면,L1,temporary pavement compressed by heavy equipment|road surface deformed by machinery load|sunken road from construction|settled pavement|subsidence|sinkhole,1
+295,배수 불량으로 물웅덩이 생긴 공사 구간,L3,물웅덩이로 침수된 공사 구간 노면,L1,work zone puddle from poor drainage|flooded construction site|sunken road from construction|settled pavement|subsidence|sinkhole,1
+296,다짐 부족으로 가라앉은 되메움부,L3,불균일하게 가라앉은 노면,L1,sunken backfill from insufficient compaction|settled refilled section|sunken road from construction|settled pavement|subsidence|sinkhole,1
+297,반복 침하로 굴곡진 임시 포장,L3,굴곡진 노면,L1,undulating temporary pavement from repeated settling|wavy road surface from subsidence|sunken road from construction|settled pavement|subsidence|sinkhole,1
+298,비 온 뒤 꺼진 공사 구간 노면,L3,젖고 꺼진 노면,L1,work zone pavement sunken after rain|post-rain road settlement in construction area|sunken road from construction|settled pavement|subsidence|sinkhole,1
+299,경계석과 단차 생긴 침하 구간,L3,경계 단차 있는 노면,L1,sunken section with curb height difference|settled road edge near curb|sunken road from construction|settled pavement|subsidence|sinkhole,1
+300,표시 없는 국부 침하 지점,L3,국부적으로 꺼진 노면,L1,unmarked localized road subsidence|unsigned sunken pavement spot|sunken road from construction|settled pavement|subsidence|sinkhole,1
+301,자리 비운 공사 구간 신호수,L3,통제 없이 진입하는 차량,L4,absent construction zone flagger|unattended traffic controller post|temporary flagger|traffic controller|flagger,1
+302,시인성 낮은 신호수 복장,L3,신호수 못 보고 진입하는 차량,L4,flagger with low visibility clothing|poorly visible traffic controller uniform|temporary flagger|traffic controller|flagger,1
+303,수신호 혼동 유발하는 신호수 위치,L3,지시 오인하는 차량,L4,flagger positioned confusingly|traffic controller in misleading location|temporary flagger|traffic controller|flagger,1
+304,야간 반사조끼 없는 신호수,L3,야간에 신호수 놓치는 차량,L4,flagger without night reflective vest|traffic controller missing reflective gear|temporary flagger|traffic controller|flagger,1
+305,방향 지시 불명확한 수신호,L3,지시 오인하고 진행하는 차량,L4,ambiguous hand signal direction|unclear flagger gesture|temporary flagger|traffic controller|flagger,1
+306,신호수 없는 무인 차로 통제 구간,L3,임의로 통과하는 차량,L4,unmanned lane control zone without flagger|lane closure without traffic controller|temporary flagger|traffic controller|flagger,1
+307,휴대 신호봉 파손된 신호수,L3,지시 인지 못하는 차량,L4,flagger with broken signal paddle|traffic controller with damaged sign paddle|temporary flagger|traffic controller|flagger,1
+308,신호수와 표지판 지시 불일치 구간,L3,어느 쪽 따를지 혼란스러운 차량,L4,conflicting flagger and sign instructions|mismatched controller and signage directions|temporary flagger|traffic controller|flagger,1
+309,시야 확보 안 된 위치의 신호수,L3,신호수 늦게 발견하는 차량,L4,flagger positioned with poor visibility|traffic controller in obstructed sightline|temporary flagger|traffic controller|flagger,1
+310,교대 공백으로 비어있는 신호수 자리,L3,통제 없이 진입하는 이륜차,L4,vacant flagger post during shift change|unattended traffic controller station|temporary flagger|traffic controller|flagger,1
+311,복구 중 방치된 누수 구간,L3,미끄러운 젖은 노면,L1,neglected water leak site under repair|unattended leak during restoration|water leak at construction site|flooded work zone|leak|puddle,1
+312,임시 배수관 넘쳐 생긴 물웅덩이,L3,침수된 노면,L1,puddle from overflowing temporary drain pipe|flooding from overflowed temp drainage|water leak at construction site|flooded work zone|leak|puddle,1
+313,공사로 막힌 빗물받이,L3,물 고인 노면,L1,storm drain blocked by construction|clogged rain gutter from work zone|water leak at construction site|flooded work zone|leak|puddle,1
+314,배수 호스 가로지른 차로,L3,돌출 장애물 있는 노면,L1,drainage hose crossing traffic lane|drain pipe laid across roadway|water leak at construction site|flooded work zone|leak|puddle,1
+315,누수로 미끄러워진 공사 구간 노면,L3,미끄러운 노면,L1,work zone pavement slippery from leak|slick construction surface from water leak|water leak at construction site|flooded work zone|leak|puddle,1
+316,임시 펌프 배수 호스 방치,L3,장애물 있는 노면,L1,neglected temporary pump drain hose|abandoned dewatering hose|water leak at construction site|flooded work zone|leak|puddle,1
+317,막힌 임시 배수로,L3,침수 위험 있는 노면,L1,clogged temporary drainage channel|blocked temporary ditch|water leak at construction site|flooded work zone|leak|puddle,1
+318,공사 여파로 역류하는 빗물받이,L3,오염된 젖은 노면,L1,storm drain backing up from construction|reverse flow gutter due to work zone|water leak at construction site|flooded work zone|leak|puddle,1
+319,정비 중 열린 채 방치된 배수구,L3,배수구 열린 채 함몰 위험 있는 노면,L1,drain left open during maintenance|unattended open drainage grate|water leak at construction site|flooded work zone|leak|puddle,1
+320,배수 불량으로 침수된 굴착 구간,L3,침수된 노면 구간,L1,flooded excavation site from poor drainage|waterlogged dig site|water leak at construction site|flooded work zone|leak|puddle,1
+321,전지 작업 후 방치된 나뭇가지,L3,가지 피해 급조향하는 차량,L4,tree branches left after pruning|neglected trimmed branches|tree trimming debris|landscaping work remnant|branch|debris,1
+322,시야 가리는 조경 작업 자재,L3,시야 확보 못한 채 진입하는 차량,L4,landscaping equipment blocking sightline|gardening materials obstructing view|tree trimming debris|landscaping work remnant|branch|debris,1
+323,뿌리 제거 구간의 패인 노면,L3,패인 곳 피해 급조향하는 이륜차,L4,sunken road from root removal|depressed pavement at root excavation|tree trimming debris|landscaping work remnant|branch|debris,1
+324,작업 중 쓰러진 조경수,L3,나무 피해 급제동하는 차량,L4,fallen tree during landscaping work|toppled ornamental tree|tree trimming debris|landscaping work remnant|branch|debris,1
+325,정리 안 된 낙엽 더미,L3,낙엽에 미끄러지는 이륜차,L4,uncleared pile of fallen leaves|leftover leaf debris|tree trimming debris|landscaping work remnant|branch|debris,1
+326,조경 공사 표시 없는 통제 구간,L3,예고 없이 진입하는 차량,L4,unmarked landscaping work control zone|unsigned gardening work area|tree trimming debris|landscaping work remnant|branch|debris,1
+327,가지치기 장비 방치된 갓길,L3,장비 피해 급차선변경하는 차량,L4,pruning equipment left on road shoulder|abandoned trimming tools on shoulder|tree trimming debris|landscaping work remnant|branch|debris,1
+328,이식 대기 중인 나무로 좁아진 인도,L3,이식 대기목 피해 차도로 내려서는 보행자,L4,sidewalk narrowed by tree awaiting transplant|footpath blocked by relocated tree|tree trimming debris|landscaping work remnant|branch|debris,1
+329,조경 작업 후 고르지 않은 노면,L3,흔들리며 서행하는 차량,L4,uneven pavement after landscaping work|rough surface from gardening work|tree trimming debris|landscaping work remnant|branch|debris,1
+330,물뿌리개 호스 가로지른 인도,L3,호스에 걸려 넘어지는 보행자,L4,watering hose crossing sidewalk|sprinkler hose blocking footpath|tree trimming debris|landscaping work remnant|branch|debris,1
+331,인도 점유한 이동식 노점,L3,노점 피해 차도로 내려서는 보행자,L4,mobile street stall occupying sidewalk|vendor cart blocking footpath|street vendor stall|temporary banner|stall|banner,1
+332,시야 가리는 대형 현수막,L3,가려졌다 갑자기 나타나는 보행자,L4,large banner blocking view|oversized sign obstructing sightline|street vendor stall|temporary banner|stall|banner,1
+333,차선까지 침범한 노점 매대,L3,매대 피해 급차선변경하는 차량,L4,vendor stall encroaching on traffic lane|street stall blocking road lane|street vendor stall|temporary banner|stall|banner,1
+334,바람에 흔들리는 임시 배너,L3,배너에 놀라는 운전자,L4,temporary banner swaying in wind|wind blown advertising banner|street vendor stall|temporary banner|stall|banner,1
+335,고정 안 된 이동식 광고판,L3,넘어진 광고판 피하는 차량,L4,unsecured mobile advertising board|unanchored portable sign|street vendor stall|temporary banner|stall|banner,1
+336,통행로 좁히는 노점 파라솔,L3,차도로 밀려나는 보행자,L4,vendor umbrella narrowing walkway|street stall parasol blocking path|street vendor stall|temporary banner|stall|banner,1
+337,끈 풀려 늘어진 현수막,L3,시야 가려 급정지하는 차량,L4,banner sagging with loose string|drooping advertising banner|street vendor stall|temporary banner|stall|banner,1
+338,보도 폭 줄이는 이동식 진열대,L3,차도 가장자리로 밀려나는 보행자,L4,mobile display rack narrowing sidewalk|vendor display reducing footpath width|street vendor stall|temporary banner|stall|banner,1
+339,시야 방해하는 임시 입간판,L3,가려진 보행자 뒤늦게 발견하는 차량,L4,temporary sign board obstructing view|sandwich board blocking sightline|street vendor stall|temporary banner|stall|banner,1
+340,바닥에 고정 안 된 이동식 화분,L3,화분 피해 급조향하는 차량,L4,unsecured mobile planter box|unanchored portable flower pot|street vendor stall|temporary banner|stall|banner,1
+341,철거 안 된 행사 통제 구조물,L3,구조물 피해 급차선변경하는 차량,L4,event control structure not removed|leftover rally barricade structure|event control barrier|rally control remnant|barricade,1
+342,바리케이드로 좁아진 임시 차로,L3,근접 주행하는 차량,L4,temporary lane narrowed by barricades|traffic lane reduced by event barriers|event control barrier|rally control remnant|barricade,1
+343,행사 후 방치된 케이블 정리물,L3,행사 케이블 잔재 피해 서행하는 차량,L4,abandoned cable cleanup after event|leftover event wiring debris|event control barrier|rally control remnant|barricade,1
+344,통제 인력 철수 후 남은 표지,L3,통제 여부 혼동하는 차량,L4,control sign left after staff withdrawal|leftover marker after event control removal|event control barrier|rally control remnant|barricade,1
+345,무대 설치용 임시 전선 노출,L3,전선 피해 우회하는 보행자,L4,exposed temporary stage wiring|unprotected event stage cable|event control barrier|rally control remnant|barricade,1
+346,행사장 진입로 표시 혼동,L3,경로 착각하는 보행자,L4,confusing event entrance signage|misleading venue entry marking|event control barrier|rally control remnant|barricade,1
+347,철수 지연된 이동식 화장실,L3,좁아진 통행로로 우회하는 보행자,L4,delayed removal of portable restroom|leftover mobile toilet after event|event control barrier|rally control remnant|barricade,1
+348,바닥에 방치된 행사 안내 배너,L3,배너에 걸려 넘어지는 보행자,L4,event guide banner left on ground|abandoned floor banner after event|event control barrier|rally control remnant|barricade,1
+349,통제선 풀려 늘어진 폴리스라인,L3,늘어진 선에 걸리는 보행자,L4,loosened sagging police line tape|detached event control tape|event control barrier|rally control remnant|barricade,1
+350,차로 침범한 행사 차량 대기열,L3,대기열 피해 급차선변경하는 차량,L4,event vehicle queue encroaching on lane|waiting vehicles blocking traffic lane|event control barrier|rally control remnant|barricade,1
+351,견인 대기 중 방치된 고장 차량,L3,고장차 피해 급차선변경하는 차량,L4,broken down vehicle awaiting tow|abandoned disabled car on roadside|accident debris|breakdown vehicle remnant|debris|wreckage,1
+352,사고 잔해 미수거 파편,L3,파편 피해 급조향하는 차량,L4,uncollected accident debris|leftover crash fragments|accident debris|breakdown vehicle remnant|debris|wreckage,1
+353,처리 지연된 유리 파편,L3,유리 피해 급제동하는 이륜차,L4,delayed cleanup of glass fragments|uncollected broken glass debris|accident debris|breakdown vehicle remnant|debris|wreckage,1
+354,기름 유출 흔적 남은 노면,L3,유막에 미끄러지는 이륜차,L4,oil spill residue on road surface|leftover oil stain from leak|accident debris|breakdown vehicle remnant|debris|wreckage,1
+355,정리 안 된 사고 현장 삼각대,L3,삼각대 피해 급조향하는 차량,L4,uncleared accident warning triangle|leftover warning tripod at crash site|accident debris|breakdown vehicle remnant|debris|wreckage,1
+356,견인차 작업으로 좁아진 차로,L3,근접 서행하는 차량,L4,lane narrowed by tow truck operation|traffic lane reduced during towing work|accident debris|breakdown vehicle remnant|debris|wreckage,1
+357,갓길에 방치된 고장 트럭,L3,갓길 진입 못하고 본선 서행하는 차량,L4,abandoned broken truck on shoulder|disabled truck left on road shoulder|accident debris|breakdown vehicle remnant|debris|wreckage,1
+358,수거 안 된 낙하물 잔해,L3,잔해 피해 급제동하는 차량,L4,uncollected fallen object debris|leftover road debris from cargo spill|accident debris|breakdown vehicle remnant|debris|wreckage,1
+359,사고 처리 후 남은 페인트 표시,L3,표시 오인해 정차하는 차량,L4,leftover paint marking after accident cleanup|residual crash scene marking|accident debris|breakdown vehicle remnant|debris|wreckage,1
+360,비상등만 켠 채 방치된 고장 차량,L3,저속 추돌 위험 겪는 후속 차량,L4,disabled vehicle left with only hazard lights on|abandoned car with flashers on|accident debris|breakdown vehicle remnant|debris|wreckage,1
+361,녹지 않은 제설 잔설 더미,L3,폭 좁아진 눈 쌓인 노면,L1,unmelted snow pile from removal|leftover snow mound after clearing|snow removal remnant|de-icing leftover|snow|ice,1
+362,살얼음 남은 제설 미흡 구간,L3,미끄러운 빙판 노면,L1,thin ice remaining from incomplete snow removal|residual ice patch after plowing|snow removal remnant|de-icing leftover|snow|ice,1
+363,제설제 뿌려지지 않은 응달 구간,L3,결빙된 노면,L1,shaded section without de-icing agent|untreated icy shaded road area|snow removal remnant|de-icing leftover|snow|ice,1
+364,쌓인 눈으로 좁아진 차로,L3,폭 좁아진 눈길 노면,L1,traffic lane narrowed by piled snow|lane reduced by accumulated snow|snow removal remnant|de-icing leftover|snow|ice,1
+365,제설 작업 차량 저속 서행 구간,L3,서행 유발하는 눈길 노면,L1,slow moving snowplow work section|low speed zone from snow removal vehicle|snow removal remnant|de-icing leftover|snow|ice,1
+366,빙판 경고 없는 그늘진 진입로,L3,결빙된 진입로 노면,L1,shaded entrance without ice warning|unmarked icy road entry|snow removal remnant|de-icing leftover|snow|ice,1
+367,제설 후 젖어 다시 얼어붙은 노면,L3,재결빙된 미끄러운 노면,L1,road refrozen wet after snow removal|re-iced pavement after plowing|snow removal remnant|de-icing leftover|snow|ice,1
+368,치우다 만 눈더미로 좁아진 갓길,L3,눈 쌓인 갓길 노면,L1,shoulder narrowed by partially cleared snow|road shoulder blocked by leftover snow pile|snow removal remnant|de-icing leftover|snow|ice,1
+369,결빙 방치된 육교 진입로,L3,미끄러운 경사 노면,L1,icy overpass entrance left untreated|unaddressed frozen footbridge entry|snow removal remnant|de-icing leftover|snow|ice,1
+370,제설 장비 이동 경로 표시 부족,L3,눈 섞인 불규칙 노면,L1,insufficient marking for snowplow route|unmarked snow removal equipment path|snow removal remnant|de-icing leftover|snow|ice,1
+371,지면에 노출된 임시 전선,L3,전선 걸림 피해 우회하는 보행자,L4,exposed temporary wire on ground|unprotected cable on road surface|temporary cable|exposed wiring|cable|wire,1
+372,고정 안 된 가설 케이블,L3,케이블에 걸려 넘어지는 보행자,L4,unsecured temporary cable|unanchored installation wiring|temporary cable|exposed wiring|cable|wire,1
+373,차로 가로지르는 임시 전선,L3,케이블 피해 서행하는 차량,L4,temporary wire crossing traffic lane|cable laid across roadway|temporary cable|exposed wiring|cable|wire,1
+374,피복 벗겨진 임시 케이블,L3,감전 우려로 우회하는 보행자,L4,temporary cable with stripped insulation|exposed wire coating damage|temporary cable|exposed wiring|cable|wire,1
+375,바닥 고정 테이프 벗겨진 전선,L3,들뜬 전선에 걸리는 보행자,L4,wire with peeled floor tape|loose cable taping on ground|temporary cable|exposed wiring|cable|wire,1
+376,높이 낮은 가설 케이블,L3,케이블에 부딪히는 이륜차,L4,low hanging temporary cable|insufficient clearance installation wire|temporary cable|exposed wiring|cable|wire,1
+377,연결부 노출된 임시 배선,L3,접촉 우려로 우회하는 보행자,L4,exposed temporary wiring connection|unprotected cable junction|temporary cable|exposed wiring|cable|wire,1
+378,빗물 고인 케이블 접속부,L3,감전 우려로 피해가는 보행자,L4,water pooled at cable connection|flooded wiring junction point|temporary cable|exposed wiring|cable|wire,1
+379,정리 안 된 여분 케이블 뭉치,L3,뭉치 피해 우회하는 보행자,L4,uncleared bundle of extra cable|leftover coiled wiring|temporary cable|exposed wiring|cable|wire,1
+380,통행로 가로지르는 발전기 전선,L3,전선 넘다 걸리는 보행자,L4,generator cable crossing walkway|power cable blocking pedestrian path|temporary cable|exposed wiring|cable|wire,1
+381,조명 부족한 야간 작업 구간,L3,조도 낮은 야간 작업 환경,L5,poorly lit nighttime work zone|insufficient lighting at night construction site|nighttime work marking|night construction site|nightwork,1
+382,반사복 미착용 야간 작업자,L3,작업자 식별 어려운 야간 환경,L5,night worker without reflective clothing|construction worker missing high-visibility gear|nighttime work marking|night construction site|nightwork,1
+383,야간 작업 구간 경계 표시 부족,L3,경계 불명확한 야간 환경,L5,inadequate boundary marking for night work zone|unmarked nighttime construction perimeter|nighttime work marking|night construction site|nightwork,1
+384,어두운 구간의 미표시 장비,L3,장비 식별 안 되는 야간 환경,L5,unmarked equipment in dark area|unlit machinery at night site|nighttime work marking|night construction site|nightwork,1
+385,야간 식별 안 되는 작업 차량,L3,차량 식별 어려운 야간 환경,L5,work vehicle hard to see at night|poor night visibility construction truck|nighttime work marking|night construction site|nightwork,1
+386,가로등 꺼진 야간 공사 구간,L3,무조명 상태의 야간 환경,L5,night construction zone with streetlight off|unlit work area due to dead streetlight|nighttime work marking|night construction site|nightwork,1
+387,야간 반사테이프 없는 임시 구조물,L3,구조물 식별 안 되는 야간 환경,L5,temporary structure without night reflective tape|unmarked structure at night|nighttime work marking|night construction site|nightwork,1
+388,조도 낮은 야간 우회 구간,L3,우회 경로 시야 확보 안 되는 야간 환경,L5,dimly lit nighttime detour section|low illumination night detour route|nighttime work marking|night construction site|nightwork,1
+389,야간작업 종료 후 미정리 장비,L3,잔존 장비 식별 안 되는 야간 환경,L5,equipment left uncleared after night work|abandoned tools after nighttime construction|nighttime work marking|night construction site|nightwork,1
+390,불빛 약한 임시 경고등 구간,L3,경고 신호 약한 야간 환경,L5,dim temporary warning light section|weak illumination at warning beacon zone|nighttime work marking|night construction site|nightwork,1
+391,차단기 없는 통제 구간 입구,L3,차단 없이 진입하는 차량,L4,control zone entrance without barrier gate|unblocked closed area entry|control zone entrance|closed zone barrier|checkpoint|control zone,1
+392,개방된 채 방치된 통제 게이트,L3,게이트 통과해 진입하는 차량,L4,control gate left open unattended|unclosed barrier gate|control zone entrance|closed zone barrier|checkpoint|control zone,1
+393,통제 표시 훼손된 진입로,L3,통제 여부 못 알고 진입하는 차량,L4,control zone entrance with damaged signage|vandalized closed area marking|control zone entrance|closed zone barrier|checkpoint|control zone,1
+394,통제 해제 안 된 옛 구간 표시,L3,통제 오인하고 우회하는 차량,L4,outdated control marking not lifted|leftover closure sign after reopening|control zone entrance|closed zone barrier|checkpoint|control zone,1
+395,안내 없이 막힌 통제 구간,L3,이유 모른 채 급정지하는 차량,L4,blocked control zone without guidance|closed area without explanation sign|control zone entrance|closed zone barrier|checkpoint|control zone,1
+396,경계 로프 끊어진 통제 구역,L3,끊긴 경계로 진입하는 보행자,L4,control zone with broken boundary rope|severed barrier rope at closed area|control zone entrance|closed zone barrier|checkpoint|control zone,1
+397,통제 구간과 정상 구간 경계 불명확,L3,경계 착각하고 진입하는 차량,L4,unclear boundary between control zone and open road|ambiguous closed area transition|control zone entrance|closed zone barrier|checkpoint|control zone,1
+398,철수한 통제 인력 자리에 남은 장비,L3,장비 피해 급조향하는 차량,L4,equipment left after control staff withdrawal|abandoned gear at vacated control post|control zone entrance|closed zone barrier|checkpoint|control zone,1
+399,통제 구간 임시 표지 방향 오류,L3,잘못된 방향으로 진입하는 차량,L4,control zone temporary sign with wrong direction|misdirected closure marker|control zone entrance|closed zone barrier|checkpoint|control zone,1
+400,차단봉 내려간 채 방치된 통제 구간,L3,차단봉 무시하고 진입하는 차량,L4,control zone left with barrier arm down|unattended lowered gate arm|control zone entrance|closed zone barrier|checkpoint|control zone,1
+401,파손된 방음벽 판넬,L2,낙하물 회피 급조향하는 차량,L4,damaged noise barrier panel|broken sound barrier panel|noise barrier|sound barrier|barrier|panel,1
+402,기울어진 방음벽,L2,붕괴 우려로 서행하며 지나가는 차량,L4,tilted noise barrier|leaning sound barrier|noise barrier|sound barrier|barrier|panel,1
+403,투명패널 깨진 방음벽,L2,파편 낙하 피해 급조향하는 차량,L4,noise barrier with cracked transparent panel|broken clear sound barrier panel|noise barrier|sound barrier|barrier|panel,1
+404,고정볼트 빠진 방음벽,L2,흔들리는 방음벽 보고 놀라 감속하는 차량,L4,noise barrier missing mounting bolt|unsecured sound barrier panel|noise barrier|sound barrier|barrier|panel,1
+405,녹슨 방음벽 지지대,L2,지지대 붕괴 우려로 중앙으로 붙는 차량,L4,rusted noise barrier support|corroded sound barrier frame|noise barrier|sound barrier|barrier|panel,1
+406,균열 생긴 방음벽 기초부,L2,기초부 파손 구간 서행하는 차량,L4,cracked noise barrier foundation|fractured sound barrier base|noise barrier|sound barrier|barrier|panel,1
+407,색 바랜 어린이보호구역 표지판,L2,제한속도 무시하고 통과하는 차량,L4,faded school zone sign|discolored children protection zone sign|school zone sign|children protection zone sign|sign|school zone,1
+408,가려진 어린이보호구역 표지판,L2,구역 인지 못하고 속도 유지하는 차량,L4,obscured school zone sign|blocked children protection zone sign|school zone sign|children protection zone sign|sign|school zone,1
+409,쓰러진 어린이보호구역 표지판,L2,감속 없이 구역 진입하는 차량,L4,fallen school zone sign|toppled children protection zone sign|school zone sign|children protection zone sign|sign|school zone,1
+410,훼손된 어린이보호구역 표지판,L2,표지 내용 못 알아보고 통과하는 차량,L4,damaged school zone sign|vandalized children protection zone sign|school zone sign|children protection zone sign|sign|school zone,1
+411,반사판 탈락된 어린이보호구역 표지판,L2,야간에 구역 표지 놓치는 차량,L4,school zone sign missing reflector|children protection zone sign reflector detached|school zone sign|children protection zone sign|sign|school zone,1
+412,야간 조명 없는 어린이보호구역 표지판,L2,야간 구역 인지 못하고 과속하는 차량,L4,school zone sign without night lighting|unlit children protection zone sign|school zone sign|children protection zone sign|sign|school zone,1
+413,수거 안 된 로드킬 사체,L3,사체 회피 급조향하는 차량,L4,uncollected roadkill carcass|leftover animal carcass on road|roadkill carcass|animal carcass|roadkill|carcass,1
+414,야간 미확인 동물 사체,L3,야간에 사체 충격 후 급제동하는 차량,L4,animal carcass unnoticed at night|unseen roadkill at night|roadkill carcass|animal carcass|roadkill|carcass,1
+415,경고 표지 없는 로드킬 현장,L3,예고 없이 사체와 마주친 차량,L4,roadkill site without warning sign|unmarked animal carcass location|roadkill carcass|animal carcass|roadkill|carcass,1
+416,도로 중앙에 방치된 동물 사체,L3,중앙 장애물 피해 급차선변경하는 차량,L4,animal carcass left in the middle of the road|roadkill blocking center lane|roadkill carcass|animal carcass|roadkill|carcass,1
+417,부패해 미끄러운 로드킬 흔적,L3,부패물에 미끄러지는 이륜차,L4,slippery decomposed roadkill residue|slick decaying animal remains on road|roadkill carcass|animal carcass|roadkill|carcass,1
+418,견인 지연된 대형 동물 사체,L3,대형 장애물 피해 급조향하는 차량,L4,large animal carcass with delayed removal|neglected large roadkill|roadkill carcass|animal carcass|roadkill|carcass,1
+419,갓길에 방치된 로드킬 수거함,L3,수거함 피해 근접 주행하는 차량,L4,roadkill collection bin left on shoulder|abandoned carcass collection container|roadkill carcass|animal carcass|roadkill|carcass,1
+420,차로에 떨어진 불법 투기물,L3,투기물 회피 급조향하는 차량,L4,illegally dumped waste fallen on the lane|dumped debris blocking traffic lane|dumped waste|illegally dumped trash|waste|dumped trash,1
+421,방치된 대형 폐기물,L3,대형 폐기물 피해 급제동하는 차량,L4,abandoned large waste item|neglected bulky discarded item|dumped waste|illegally dumped trash|waste|dumped trash,1
+422,흩어진 쓰레기 봉투,L3,봉투 회피하며 서행하는 차량,L4,scattered garbage bags|torn trash bags spread on road|dumped waste|illegally dumped trash|waste|dumped trash,1
+423,도로변에 쌓인 불법 투기 쓰레기,L3,시야 방해받는 갓길 주행 차량,L4,illegally dumped trash piled on roadside|roadside waste dumping pile|dumped waste|illegally dumped trash|waste|dumped trash,1
+424,바람에 날리는 투기 비닐,L3,시야 가리는 비닐에 놀라는 운전자,L4,dumped plastic sheet blowing in the wind|windblown dumped plastic sheeting|dumped waste|illegally dumped trash|waste|dumped trash,1
+425,야간 미확인 투기 폐가구,L3,야간에 폐가구 충돌 위험 겪는 차량,L4,discarded furniture unnoticed at night|unseen dumped furniture at night|dumped waste|illegally dumped trash|waste|dumped trash,1
+426,치우지 않은 낙석 잔해,L3,낙석 잔해로 좁아진 노면,L1,uncleared rockfall debris|leftover rockfall fragments on road|rockfall debris|landslide soil|rockfall|landslide,1
+427,경고 표지 없는 토사 유출 구간,L3,표시 없는 토사 퇴적 노면,L1,landslide debris area without warning sign|unmarked soil runoff section|rockfall debris|landslide soil|rockfall|landslide,1
+428,야간 미확인 낙석 파편,L3,야간 식별 안 되는 낙석 노면,L1,rockfall fragments unnoticed at night|unseen rock debris at night|rockfall debris|landslide soil|rockfall|landslide,1
+429,배수 불량으로 흘러내린 토사,L3,미끄러운 토사 퇴적 노면,L1,soil washed down from poor drainage|eroded soil runoff from drainage failure|rockfall debris|landslide soil|rockfall|landslide,1
+430,방치된 낙석 방지망 파손부,L3,방지망 파손으로 낙석 위험 있는 노면,L1,damaged rockfall prevention net left unrepaired|neglected torn rockfall netting|rockfall debris|landslide soil|rockfall|landslide,1
+431,도로 일부 덮은 토사 퇴적물,L3,폭 좁아진 토사 퇴적 노면,L1,soil deposit covering part of the road|landslide soil partially covering roadway|rockfall debris|landslide soil|rockfall|landslide,1
