@@ -1,0 +1,98 @@
+You are given one accident record as JSON.
+
+GOAL:
+Generate a COMPLETE output that matches the STRICT system Output Schema.
+Use EXACTLY these top-level keys (do not rename):
+"Excluded_Metadata", "Road-Level", "Traffic infrastructure", "Temporary manipulation of L1 and L2", "Traffic Actors and Maneuvers", "Environment"
+IMPORTANT: Output ONLY the JSON object in ONE line (JSONL). No markdown, no code fences, no extra text.
+
+KEYWORD-DRIVEN EXPANSION (CRITICAL):
+- If any evidence item contains an injected keyword, use it as the primary trigger to expand missing_layers,
+  especially for L2 and L3 generation, while keeping inference_type="plausible" when not explicit.
+
+MANDATORY GENERATION (apply the system prompt's Ontology Layer Definitions and Execution Logic to THIS record):
+- Every layer (Road-Level, Traffic infrastructure, Temporary manipulation of L1 and L2, Traffic
+  Actors and Maneuvers, Environment) MUST receive at least 1 concrete Gen item -- never a negation/absence placeholder
+  (e.g., "unknown", "none", "no X present"), no matter how indirect the evidence is. Always deduce and commit
+  to your single best, most legally/causally plausible concrete guess instead of an empty or negative result.
+- For Temporary manipulation of L1 and L2 (L3) specifically: per the system prompt's Ontology Layer
+  Definition, a valid answer may be a control/warning device OR the transient hazard/defect object itself.
+  Do not default to control-device vocabulary as a reflex; derive the object specific to THIS record's own
+  evidence.
+
+LAYER COMPLETENESS:
+For EACH of the 5 layers, output 1-3 Gen items (never 0, never >3).
+Always set "NoGen" to null.
+
+ORIGINAL FIELD RULE (to avoid inventing hidden text):
+- If no explicit original content is provided in INPUT_JSON for a section, set that section's "Original" to [].
+- For "Excluded_Metadata": set "Original" to INPUT_JSON.nondefined_pool exactly.
+- Excluded_Metadata.Gen must be [].
+
+EVIDENCE ANCHOR (STRICT):
+- Evidence items are in locked_evidence and unlocked_evidence. Each item has a string field "t".
+- evidence_anchor MUST be an EXACT copy of one existing evidence item's "t".
+- Prefer locked_evidence anchors when possible. Never invent anchors.
+
+ANCHOR SELECTION (LAYER-AWARE, KEYWORD-PRIOR):
+- Choose evidence_anchor from locked_evidence/unlocked_evidence only.
+- Some evidence items carry an "nsc_target_layer" field naming EXACTLY ONE ontology  layer.
+  This is a HARD, NON-NEGOTIABLE constraint: an item with "nsc_target_layer": "X" MUST  be used as the evidence_anchor for layer X, and MUST NEVER be used as the  evidence_anchor for any OTHER layer -- even if it seems relevant to that other
+  layer too. Do not reassign, share, or reinterpret this field; it is not a  suggestion.
+- If missing_layers includes the target layer and NO evidence item carries a
+  matching "nsc_target_layer", prefer an evidence item whose "t" contains the
+  injected keyword(s) or directly describes the hazard/condition.
+- Otherwise prefer locked_evidence, then unlocked_evidence.
+- cooccurrence_summary is never an anchor.
+
+INFERENCE TYPE:
+- "supported" ONLY if the generated element is explicitly stated in the chosen evidence_anchor text.
+- Otherwise use "plausible".
+
+GEN TEXT QUALITY:
+- "text" must be a simulation-ready executable scene element (object/constraint/geometry/control/action/condition),
+  written concisely in an academic tone.
+- LANGUAGE (STRICT): "text" and "justification" MUST be written in ENGLISH, regardless of the language of the
+  input evidence. Never output Korean (or any non-English) text in these fields.
+- Do not rewrite evidence. Do not paraphrase evidence as causal explanations.
+- justification must be 1–2 sentences in the form "Premise -> Link -> Conclusion".
+
+GEN ITEM SCHEMA (STRICT -- every single Gen item, in every layer, MUST be a JSON object
+with EXACTLY these 4 keys -- never fewer, never renamed):
+{
+  "text": "the simulation-ready scene element, in English",
+  "inference_type": "supported" or "plausible",
+  "evidence_anchor": "an EXACT copy of one existing evidence item's \"t\" field -- never invented, never omitted",
+  "justification": "Premise -> Link -> Conclusion, in English, 1-2 sentences"
+}
+Do NOT drop "evidence_anchor" or "inference_type" even when "text" and "justification" look complete without
+them -- all 4 keys are mandatory on every Gen item, with no exceptions.
+
+FULL OUTPUT SHAPE EXAMPLE (STRICT -- every layer's VALUE in the top-level JSON object MUST be an object
+with exactly "Original" and "Gen" as its two keys -- NEVER a bare list of Gen items directly):
+{
+  "Excluded_Metadata": {"Original": [{"i": 0, "t": "...", "reason": "unknown"}], "Gen": []},
+  "Road-Level": {
+    "Original": [],
+    "Gen": [
+      {"text": "...", "inference_type": "supported", "evidence_anchor": "...", "justification": "..."}
+    ]
+  },
+  "Traffic infrastructure": {
+    "Original": [],
+    "Gen": [
+      {"text": "...", "inference_type": "plausible", "evidence_anchor": "...", "justification": "..."},
+      {"text": "...", "inference_type": "plausible", "evidence_anchor": "...", "justification": "..."}
+    ]
+  }
+}
+This is a STRUCTURAL example only -- the exact number of Gen items per layer varies 1-3 per the LAYER
+COMPLETENESS rule above (this example shows 1 item for one layer and 2 for another only to illustrate
+that the count varies). What must NEVER vary is the wrapper: every layer key's value, without exception,
+is an object shaped like `{"Original": [...], "Gen": [...]}` -- never a bare array.
+
+OUTPUT:
+Return ONLY the JSON object in ONE line (JSONL). No extra text.
+
+INPUT_JSON:
+{payload}
