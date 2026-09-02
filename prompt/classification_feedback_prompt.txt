@@ -1,0 +1,9 @@
+Your previous classification for index '{index}' contained errors.
+
+Errors identified:
+{errors}
+
+CRITICAL INSTRUCTION:
+Please correct these errors. However, you MUST return the ENTIRE JSON structure again, including all the correct mappings and the newly corrected ones.
+DO NOT omit, drop, or summarize any fields.
+Format your response as a single JSON object with ONLY a 'mappings' list at the root level.
